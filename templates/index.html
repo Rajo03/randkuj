@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ meta.site_name }} — {{ meta.tagline }}</title>
+<meta name="description" content="{{ meta.tagline }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ meta.site_url }}/">
+<meta property="og:title" content="{{ meta.site_name }} — {{ meta.tagline }}">
+<meta property="og:description" content="{{ meta.tagline }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+{% include "partials/styles.css" %}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="logo">Rand<span>kuj</span></a>
+  <nav class="site-nav">
+    <a href="#rankingi">Rankingi</a>
+    <a href="#recenzje">Recenzje</a>
+    <a href="#poradniki">Poradniki</a>
+    <a href="#rankingi" class="nav-cta">Zobacz ranking →</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="wrap">
+    <div class="hero-content">
+      <div class="hero-eyebrow">Randki online w Polsce 2026</div>
+      <h1>Znajdź kogoś <em>naprawdę wartościowego</em> przez internet</h1>
+      <p class="hero-sub">Szczere recenzje portali randkowych, rankingi bez ściemy i poradniki podrywania które działają w praktyce.</p>
+      <a href="#rankingi" class="hero-cta">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        Sprawdź rankingi
+      </a>
+      <div class="hero-trust">
+        <div class="hero-trust-item">
+          <div class="hero-trust-icon">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          </div>
+          <div>
+            <div class="hero-trust-val">10+</div>
+            <div class="hero-trust-label">Portali przetestowanych</div>
+          </div>
+        </div>
+        <div class="hero-trust-item">
+          <div class="hero-trust-icon">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </div>
+          <div>
+            <div class="hero-trust-val">100%</div>
+            <div class="hero-trust-label">Szczere opinie</div>
+          </div>
+        </div>
+        <div class="hero-trust-item">
+          <div class="hero-trust-icon">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <div>
+            <div class="hero-trust-val">2026</div>
+            <div class="hero-trust-label">Aktualne dane</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RANKINGI -->
+<section class="section" id="rankingi">
+  <div class="wrap">
+    <div class="section-eyebrow">Rankingi</div>
+    <h2 class="section-title">Rankingi portali randkowych</h2>
+    <p class="section-sub">Porównania i zestawienia które oszczędzają czas — żebyś nie musiał testować wszystkiego samodzielnie.</p>
+    <div class="articles-grid">
+      {% for art in rankingi %}
+      <a href="/rankingi/{{ art.slug }}/" class="article-card reveal">
+        <div class="article-card-cat">Ranking</div>
+        <div class="article-card-title">{{ art.title }}</div>
+        <div class="article-card-desc">{{ art.desc }}</div>
+        <div class="article-card-link">
+          Czytaj
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- RECENZJE -->
+<section class="section" id="recenzje" style="background:var(--dark-2);border-top:1px solid var(--border-sub)">
+  <div class="wrap">
+    <div class="section-eyebrow">Recenzje</div>
+    <h2 class="section-title">Recenzje portali randkowych</h2>
+    <p class="section-sub">Szczere opinie po realnym użytkowaniu — ceny, funkcje, jakość bazy i czy naprawdę warto płacić.</p>
+    <div class="articles-grid">
+      {% for art in recenzje %}
+      <a href="/recenzje/{{ art.slug }}/" class="article-card reveal">
+        <div class="article-card-cat">Recenzja</div>
+        <div class="article-card-title">{{ art.title }}</div>
+        <div class="article-card-desc">{{ art.desc }}</div>
+        <div class="article-card-link">
+          Czytaj
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- PORADNIKI -->
+<section class="section" id="poradniki">
+  <div class="wrap">
+    <div class="section-eyebrow">Poradniki</div>
+    <h2 class="section-title">Poradniki podrywania i randkowania</h2>
+    <p class="section-sub">Praktyczne wskazówki — od pierwszej wiadomości do pierwszego spotkania.</p>
+    <div class="articles-grid">
+      {% for art in poradniki %}
+      <a href="/poradniki/{{ art.slug }}/" class="article-card reveal">
+        <div class="article-card-cat">Poradnik</div>
+        <div class="article-card-title">{{ art.title }}</div>
+        <div class="article-card-desc">{{ art.desc }}</div>
+        <div class="article-card-link">
+          Czytaj
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© 2026 Randkuj — recenzje portali randkowych i poradniki</p>
+    <p class="legal-note">Treści mają charakter informacyjny. Linki do portali mogą być linkami afiliacyjnymi — nie wpływa to na nasze oceny. Korzystasz z portali randkowych na własną odpowiedzialność.</p>
+  </div>
+</footer>
+
+<script>
+const io = new IntersectionObserver(entries => {
+  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); io.unobserve(e.target); } });
+}, { threshold: 0.08 });
+document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+</script>
+</body>
+</html>

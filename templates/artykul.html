@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ art.title }} | Randkuj</title>
+<meta name="description" content="{{ art.desc }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/">
+<meta property="og:title" content="{{ art.title }} | Randkuj">
+<meta property="og:description" content="{{ art.desc }}">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="pl_PL">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ art.title }}",
+    "description": "{{ art.desc }}",
+    "url": "{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/",
+    "dateModified": "{{ meta.updated }}",
+    "publisher": {"@type": "Organization", "name": "Randkuj", "url": "{{ meta.site_url }}"},
+    "keywords": "{{ art.keywords }}"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for f in art.faq %}
+      {"@type": "Question", "name": "{{ f.q }}", "acceptedAnswer": {"@type": "Answer", "text": "{{ f.a }}"}}{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Randkuj","item":"{{ meta.site_url }}/"},
+      {"@type":"ListItem","position":2,"name":"{{ kategoria }}","item":"{{ meta.site_url }}/#{{ kat_slug }}"},
+      {"@type":"ListItem","position":3,"name":"{{ art.title }}","item":"{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/"}
+    ]
+  }
+]
+</script>
+
+<style>
+{% include "partials/styles.css" %}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="{{ base }}" class="logo">Rand<span>kuj</span></a>
+  <nav class="site-nav">
+    <a href="{{ base }}#rankingi">Rankingi</a>
+    <a href="{{ base }}#recenzje">Recenzje</a>
+    <a href="{{ base }}#poradniki">Poradniki</a>
+    <a href="{{ base }}#rankingi" class="nav-cta">Zobacz ranking →</a>
+  </nav>
+</header>
+
+<section class="art-hero">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ base }}">Randkuj</a>
+      <span class="breadcrumb-sep">›</span>
+      <a href="{{ base }}#{{ kat_slug }}">{{ kategoria }}</a>
+      <span class="breadcrumb-sep">›</span>
+      <span>{{ art.h1 }}</span>
+    </nav>
+    <div class="art-cat">{{ kategoria }}</div>
+    <h1 class="art-h1">{{ art.h1 }}</h1>
+    <p class="art-intro">{{ art.intro }}</p>
+    <div class="art-meta">
+      <div class="art-meta-item">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        Zaktualizowano: {{ meta.updated }}
+      </div>
+      <div class="art-meta-item">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Czas czytania: ok. 5 min
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="art-layout">
+
+    <div class="art-content">
+      {% for sek in art.sekcje %}
+      <h2 id="s{{ loop.index }}">{{ sek.h2 }}</h2>
+      <p>{{ sek.tresc }}</p>
+      {% endfor %}
+
+      {% if art.oferty %}
+      <div class="offers-section" id="oferty">
+        <div class="offers-section-title">Polecane portale randkowe</div>
+        <div class="offers-section-sub">Linki partnerskie — dobrane pod kątem jakości i warunków</div>
+        {% for o in art.oferty %}
+        <div class="offer-card reveal{% if o.featured %} featured{% endif %}">
+          {% if o.badge %}<div class="offer-badge">{{ o.badge }}</div>{% endif %}
+          <div class="offer-logo">
+            {% if o.logo %}
+            <img src="{{ base }}logos-randkuj/{{ o.logo }}.png"
+                 onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+                 alt="{{ o.shop or o.nazwa or '' }}" loading="lazy" style="width:100%;height:100%;object-fit:contain;padding:6px">
+            <div class="offer-logo-abbr" style="display:none">{{ (o.shop or o.nazwa or '')[:3]|upper }}</div>
+            {% else %}
+            <div class="offer-logo-abbr">{{ (o.shop or o.nazwa or '')[:3]|upper }}</div>
+            {% endif %}
+          </div>
+          <div class="offer-body">
+            <div class="offer-name">{{ o.name or o.nazwa }}</div>
+            <div class="offer-shop">{{ o.shop or o.nazwa }}{% if o.typ %} · {{ o.typ }}{% endif %}</div>
+            <div class="offer-cena">{{ o.opis or '' }}</div>
+            {% if o.plusy %}
+            <div class="offer-plusy">
+              {% for p in o.plusy[:2] %}
+              <div class="offer-plus">
+                <svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                {{ p }}
+              </div>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="offer-right">
+            <a href="{{ o.link or o.url }}" class="btn-offer" target="_blank" rel="noopener sponsored">{{ o.cta or 'Sprawdź' }} →</a>
+          </div>
+          <div class="offer-mobile-btns">
+            <a href="{{ o.link or o.url }}" class="btn-offer" target="_blank" rel="noopener sponsored">{{ o.cta or 'Sprawdź' }} →</a>
+          </div>
+        </div>
+        {% endfor %}
+        <p style="font-size:11px;color:var(--text-dim);margin-top:12px">* Linki partnerskie. Nie wpływa to na nasze oceny.</p>
+      </div>
+      {% endif %}
+
+      {% if art.faq %}
+      <div class="faq-section" id="faq">
+        <div class="faq-title">Najczęstsze pytania</div>
+        {% for f in art.faq %}
+        <div class="faq-item reveal">
+          <button class="faq-q" aria-expanded="false">
+            {{ f.q }}
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a">{{ f.a }}</div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <aside class="art-sidebar">
+      <div class="sidebar-box">
+        <div class="sidebar-box-title">Spis treści</div>
+        <nav class="sidebar-toc">
+          {% for sek in art.sekcje %}
+          <a href="#s{{ loop.index }}">{{ sek.h2 }}</a>
+          {% endfor %}
+          {% if art.oferty %}<a href="#oferty">Polecane portale</a>{% endif %}
+          {% if art.faq %}<a href="#faq">Pytania i odpowiedzi</a>{% endif %}
+        </nav>
+      </div>
+
+      {% set oferty_do_wyswietlenia = art.oferty if art.oferty else sidebar_oferty %}
+      {% if oferty_do_wyswietlenia %}
+      <div class="sidebar-box sidebar-offers">
+        <div class="sidebar-box-title">Polecane portale</div>
+        {% for o in oferty_do_wyswietlenia %}
+        <div class="sidebar-offer-item{% if loop.last %} last{% endif %}">
+          <div class="sidebar-offer-name">{{ o.nazwa or o.name }}</div>
+          <div class="sidebar-offer-desc">{{ o.opis or o.shop }}</div>
+          <a href="{{ o.url or o.link }}" target="_blank" rel="noopener sponsored" class="sidebar-offer-link">{{ o.cta or 'Sprawdź' }} →</a>
+        </div>
+        {% endfor %}
+        <p class="sidebar-aff-note">* Linki partnerskie</p>
+      </div>
+      {% endif %}
+
+      <div class="sidebar-box" style="background:rgba(232,24,90,.04);border-color:rgba(232,24,90,.15)">
+        <div class="sidebar-box-title" style="color:var(--rose)">💡 Wskazówka</div>
+        <p style="font-size:12px;color:var(--text-muted);line-height:1.6">Przetestuj 2-3 portale równolegle przez pierwsze 2 tygodnie — to najlepsza metoda żeby znaleźć ten z najlepszą bazą w twoim mieście.</p>
+      </div>
+    </aside>
+
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>© 2026 Randkuj — recenzje portali randkowych i poradniki</p>
+    <p class="legal-note">Treści mają charakter informacyjny. Linki do portali mogą być linkami afiliacyjnymi — nie wpływa to na nasze oceny.</p>
+  </div>
+</footer>
+
+<script>
+const io = new IntersectionObserver(entries => {
+  entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); io.unobserve(e.target); } });
+}, { threshold: 0.1 });
+document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+
+document.querySelectorAll('.faq-q').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    document.querySelectorAll('.faq-q').forEach(b => { b.setAttribute('aria-expanded','false'); b.nextElementSibling.classList.remove('open'); });
+    if(!expanded){ btn.setAttribute('aria-expanded','true'); btn.nextElementSibling.classList.add('open'); }
+  });
+});
+</script>
+</body>
+</html>
