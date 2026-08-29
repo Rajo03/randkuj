@@ -14,15 +14,36 @@
       "h1": "Najlepsze portale randkowe dla dorosłych 2026 — ranking TOP 10",
       "intro": "Sprawdziłem dziesiątki portali randkowych dla dorosłych w Polsce i wybrałem te, które naprawdę działają. Oceniałem bazę użytkowników, weryfikację profili, opcje kontaktu i stosunek ceny do jakości.",
       "sekcje": [
-        {"h2": "Jak oceniałem portale randkowe?", "tresc": "Każdy portal testowałem przez minimum 2 tygodnie. Sprawdzałem: liczbę aktywnych profili w moim regionie, szybkość odpowiedzi na wiadomości, weryfikację profili (by uniknąć botów), przejrzystość cennika i łatwość obsługi aplikacji mobilnej. Wyniki są niezależne — nie płacę za dobre recenzje."},
-        {"h2": "TOP 3 portale randkowe dla dorosłych w Polsce", "tresc": "1. Badoo — największa baza użytkowników w Polsce, darmowe podstawowe funkcje, aplikacja mobilna. 2. Sympatia.pl — zweryfikowane profile, głównie Polacy szukający poważniejszych relacji. 3. Ashley Madison — dla osób szukających dyskretnych znajomości. Każdy z nich ma inną specjalizację — wybór zależy od tego, czego szukasz."},
-        {"h2": "Portale płatne vs darmowe — co wybrać?", "tresc": "Darmowe portale (Badoo, OkCupid) mają więcej użytkowników, ale więcej fake-profili. Płatne portale (Sympatia Premium, eHarmony) są droższe, ale baza jest lepiej weryfikowana. Złoty środek: konto darmowe na Badoo do testów + miesięczna subskrypcja premium na Sympatii, jeśli zdecydujesz się poważniej."},
-        {"h2": "Na co uważać przy wyborze portalu?", "tresc": "Czerwone flagi: ukryte opłaty za \"monety\" bez jasnego cennika, brak weryfikacji profili SMS/zdjęciem, niemożność usunięcia konta. Zwróć uwagę na: transparentny cennik abonamentowy, możliwość darmowego przejrzenia profili przed płaceniem, aktywna baza w twoim mieście lub regionie."}
+        {
+          "h2": "Jak oceniałem portale randkowe?",
+          "tresc": "Każdy portal testowałem przez minimum 2 tygodnie. Sprawdzałem: liczbę aktywnych profili w moim regionie, szybkość odpowiedzi na wiadomości, weryfikację profili (by uniknąć botów), przejrzystość cennika i łatwość obsługi aplikacji mobilnej. Wyniki są niezależne — nie płacę za dobre recenzje."
+        },
+        {
+          "h2": "TOP 3 portale randkowe dla dorosłych w Polsce",
+          "tresc": "1. Badoo — największa baza użytkowników w Polsce, darmowe podstawowe funkcje, aplikacja mobilna. 2. Sympatia.pl — zweryfikowane profile, głównie Polacy szukający poważniejszych relacji. 3. Ashley Madison — dla osób szukających dyskretnych znajomości. Każdy z nich ma inną specjalizację — wybór zależy od tego, czego szukasz."
+        },
+        {
+          "h2": "Portale płatne vs darmowe — co wybrać?",
+          "tresc": "Darmowe portale (Badoo, OkCupid) mają więcej użytkowników, ale więcej fake-profili. Płatne portale (Sympatia Premium, eHarmony) są droższe, ale baza jest lepiej weryfikowana. Złoty środek: konto darmowe na Badoo do testów + miesięczna subskrypcja premium na Sympatii, jeśli zdecydujesz się poważniej."
+        },
+        {
+          "h2": "Na co uważać przy wyborze portalu?",
+          "tresc": "Czerwone flagi: ukryte opłaty za \"monety\" bez jasnego cennika, brak weryfikacji profili SMS/zdjęciem, niemożność usunięcia konta. Zwróć uwagę na: transparentny cennik abonamentowy, możliwość darmowego przejrzenia profili przed płaceniem, aktywna baza w twoim mieście lub regionie."
+        }
       ],
       "faq": [
-        {"q": "Który portal randkowy jest najlepszy dla dorosłych w Polsce?", "a": "Dla największego wyboru — Badoo (darmowy). Dla poważnych relacji — Sympatia.pl. Dla dyskretnych znajomości — Ashley Madison. Najlepiej przetestować 2-3 portale równolegle przez pierwsze 2 tygodnie."},
-        {"q": "Czy portale randkowe są bezpieczne?", "a": "Portale z weryfikacją profilu SMS i zdjęciem są bezpieczniejsze. Zawsze: nie podawaj danych osobowych (adres, telefon) przed osobistym spotkaniem, spotykaj się najpierw w miejscu publicznym, informuj kogoś bliskiego o planowanym spotkaniu."},
-        {"q": "Ile kosztuje konto premium na portalu randkowym?", "a": "Ceny miesięczne: Sympatia Premium 59–89 zł/mies., Badoo Premium 29–49 zł/mies., eHarmony od 79 zł/mies. Zazwyczaj najtaniej wychodzi kupno subskrypcji kwartalnej lub rocznej — do 50% taniej."}
+        {
+          "q": "Który portal randkowy jest najlepszy dla dorosłych w Polsce?",
+          "a": "Dla największego wyboru — Badoo (darmowy). Dla poważnych relacji — Sympatia.pl. Dla dyskretnych znajomości — Ashley Madison. Najlepiej przetestować 2-3 portale równolegle przez pierwsze 2 tygodnie."
+        },
+        {
+          "q": "Czy portale randkowe są bezpieczne?",
+          "a": "Portale z weryfikacją profilu SMS i zdjęciem są bezpieczniejsze. Zawsze: nie podawaj danych osobowych (adres, telefon) przed osobistym spotkaniem, spotykaj się najpierw w miejscu publicznym, informuj kogoś bliskiego o planowanym spotkaniu."
+        },
+        {
+          "q": "Ile kosztuje konto premium na portalu randkowym?",
+          "a": "Ceny miesięczne: Sympatia Premium 59–89 zł/mies., Badoo Premium 29–49 zł/mies., eHarmony od 79 zł/mies. Zazwyczaj najtaniej wychodzi kupno subskrypcji kwartalnej lub rocznej — do 50% taniej."
+        }
       ],
       "oferty": []
     },
@@ -34,15 +55,200 @@
       "h1": "Portale randkowe dla osób po 40 — gdzie naprawdę znajdziesz kogoś wartościowego?",
       "intro": "Randki po 40 to inne wyzwanie niż w wieku 20 lat — ważniejsze jest dopasowanie wartości, trybu życia i oczekiwań. Sprawdziłem które portale mają największą bazę dojrzałych singli i jakie dają realne szanse.",
       "sekcje": [
-        {"h2": "Dlaczego randki po 40 różnią się od tych w młodości?", "tresc": "Po 40. wiemy czego chcemy. Mamy mniej czasu na gry i stratę czasu. Dlatego warto wybierać portale nakierowane na dojrzałe relacje, z filtrowaniem po wieku, zainteresowaniach i lokalizacji. Tinder działa dla dwudziestolatków — dla dojrzałych singli lepsze są serwisy z bardziej rozbudowanymi profilami."},
-        {"h2": "TOP 4 portale dla singli po 40 w Polsce", "tresc": "1. Sympatia.pl — największa polska baza dojrzałych singli, rozbudowane profile, weryfikacja. 2. Match.com — globalny serwis z dużą bazą po 35+. 3. EliteSingles — premium, wykształceni single po 30-40+. 4. eHarmony — matching oparty na psychologii, wysoka jakość profili, droższy. Badoo i Tinder mają zbyt młodą bazę — wyjątek: duże miasta jak Warszawa, Kraków."},
-        {"h2": "Jak stworzyć profil, który przyciągnie wartościowe osoby?", "tresc": "Zdjęcie: zrób profesjonalne lub wysokiej jakości zdjęcia (portret + zdjęcie w sytuacji). Nie ukrywaj wieku — osoby dojrzałe szukają rówieśników. Opis: napisz o tym co lubisz robić (nie kim jesteś zawodowo). Konkretnie: zamiast 'lubię podróże' napisz 'w tym roku byłam w Japonii i planuję Argentynę'. Czego szukasz: bądź uczciwy/a czy szukasz relacji czy towarzystwa."},
-        {"h2": "Jak uniknąć scamów i fałszywych profili?", "tresc": "Typowe czerwone flagi: profil bez zdjęcia lub ze zdjęciami modela/modelki, natychmiastowe wyznania miłości po 2 wiadomościach, prośby o pieniądze (\"mam nagły wypadek\"), niemożność spotkania się przez wideorozmowę. Zawsze: zaproponuj krótką rozmowę wideo przed pierwszym spotkaniem — prawdziwa osoba się zgodzi, scammer znajdzie wymówkę."}
+        {
+          "h2": "Dlaczego randki po 40 różnią się od tych w młodości?",
+          "tresc": "Po 40. wiemy czego chcemy. Mamy mniej czasu na gry i stratę czasu. Dlatego warto wybierać portale nakierowane na dojrzałe relacje, z filtrowaniem po wieku, zainteresowaniach i lokalizacji. Tinder działa dla dwudziestolatków — dla dojrzałych singli lepsze są serwisy z bardziej rozbudowanymi profilami."
+        },
+        {
+          "h2": "TOP 4 portale dla singli po 40 w Polsce",
+          "tresc": "1. Sympatia.pl — największa polska baza dojrzałych singli, rozbudowane profile, weryfikacja. 2. Match.com — globalny serwis z dużą bazą po 35+. 3. EliteSingles — premium, wykształceni single po 30-40+. 4. eHarmony — matching oparty na psychologii, wysoka jakość profili, droższy. Badoo i Tinder mają zbyt młodą bazę — wyjątek: duże miasta jak Warszawa, Kraków."
+        },
+        {
+          "h2": "Jak stworzyć profil, który przyciągnie wartościowe osoby?",
+          "tresc": "Zdjęcie: zrób profesjonalne lub wysokiej jakości zdjęcia (portret + zdjęcie w sytuacji). Nie ukrywaj wieku — osoby dojrzałe szukają rówieśników. Opis: napisz o tym co lubisz robić (nie kim jesteś zawodowo). Konkretnie: zamiast 'lubię podróże' napisz 'w tym roku byłam w Japonii i planuję Argentynę'. Czego szukasz: bądź uczciwy/a czy szukasz relacji czy towarzystwa."
+        },
+        {
+          "h2": "Jak uniknąć scamów i fałszywych profili?",
+          "tresc": "Typowe czerwone flagi: profil bez zdjęcia lub ze zdjęciami modela/modelki, natychmiastowe wyznania miłości po 2 wiadomościach, prośby o pieniądze (\"mam nagły wypadek\"), niemożność spotkania się przez wideorozmowę. Zawsze: zaproponuj krótką rozmowę wideo przed pierwszym spotkaniem — prawdziwa osoba się zgodzi, scammer znajdzie wymówkę."
+        }
       ],
       "faq": [
-        {"q": "Który portal randkowy dla osób po 40 jest najlepszy w Polsce?", "a": "Sympatia.pl ma największą polską bazę dojrzałych singli. Dla wymagających — EliteSingles lub eHarmony. Zacznij od darmowego konta na Sympatii i oceń jakość profili w twoim mieście."},
-        {"q": "Czy warto płacić za portal randkowy po 40?", "a": "Tak — premium znacząco zwiększa widoczność profilu i daje dostęp do filtrów. Ale najpierw testuj darmową wersję przez 2-3 dni żeby ocenić bazę użytkowników w twoim regionie. Płać tylko jeśli widzisz interesujące profile."},
-        {"q": "Jak szybko można kogoś poznać przez portal randkowy?", "a": "Przy aktywnym korzystaniu (codziennie 20-30 minut, odpowiadanie na wiadomości) — pierwsze spotkanie w realu można umówić w ciągu 1-3 tygodni. Kluczowe jest przejście z wiadomości tekstowych do rozmowy telefonicznej lub wideo możliwie szybko."}
+        {
+          "q": "Który portal randkowy dla osób po 40 jest najlepszy w Polsce?",
+          "a": "Sympatia.pl ma największą polską bazę dojrzałych singli. Dla wymagających — EliteSingles lub eHarmony. Zacznij od darmowego konta na Sympatii i oceń jakość profili w twoim mieście."
+        },
+        {
+          "q": "Czy warto płacić za portal randkowy po 40?",
+          "a": "Tak — premium znacząco zwiększa widoczność profilu i daje dostęp do filtrów. Ale najpierw testuj darmową wersję przez 2-3 dni żeby ocenić bazę użytkowników w twoim regionie. Płać tylko jeśli widzisz interesujące profile."
+        },
+        {
+          "q": "Jak szybko można kogoś poznać przez portal randkowy?",
+          "a": "Przy aktywnym korzystaniu (codziennie 20-30 minut, odpowiadanie na wiadomości) — pierwsze spotkanie w realu można umówić w ciągu 1-3 tygodni. Kluczowe jest przejście z wiadomości tekstowych do rozmowy telefonicznej lub wideo możliwie szybko."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "najlepsze-aplikacje-randkowe-polska-2026",
+      "title": "Najlepsze aplikacje randkowe w Polsce 2026 - ranking TOP 8",
+      "desc": "Ranking najlepszych aplikacji randkowych dostępnych w Polsce w 2026. Porównanie Tinder, Badoo, Bumble, Sympatia i innych.",
+      "keywords": "najlepsze aplikacje randkowe polska, aplikacja randkowa ranking, tinder badoo bumble porównanie",
+      "h1": "Najlepsze aplikacje randkowe w Polsce 2026 — ranking TOP 8",
+      "intro": "Przetestowałem 8 najpopularniejszych aplikacji randkowych dostępnych w Polsce. Oceniałem bazę użytkowników, jakość interfejsu, stosunek ceny do jakości i realne szanse na poznanie kogoś wartościowego.",
+      "sekcje": [
+        {
+          "h2": "Jak wybrałem aplikacje do rankingu?",
+          "tresc": "Każdą aplikację testowałem przez 3-4 tygodnie jako aktywny użytkownik. Sprawdzałem: liczbę aktywnych profili w kilku polskich miastach (Warszawa, Kraków, Wrocław, Poznań), jakość weryfikacji profili, dostępność kluczowych funkcji w darmowej wersji, ceny premium i co faktycznie dają, stabilność aplikacji mobilnej na Android i iOS."
+        },
+        {
+          "h2": "TOP 4 aplikacje randkowe w Polsce 2026",
+          "tresc": "1. Badoo — najlepsza baza polska, dobre darmowe funkcje. 2. Tinder — globalny lider, dobra baza w dużych miastach, droższe premium. 3. Bumble — kobiety piszą pierwsze, mniej spamu, świetna dla kobiet. 4. Sympatia — najlepsza jakość profili, najpoważniejsze intencje, droższa. Miejsca 5-8: OkCupid (dobry algorytm), Hinge (pod poważne relacje), Happn (spotkania w realu), Lovoo (europejska alternatywa)."
+        },
+        {
+          "h2": "Tinder vs Badoo vs Bumble — kluczowe różnice",
+          "tresc": "Tinder: swipe-based, duża baza 18-35 lat, premium od 49 zł/mies., dużo przypadkowych profili. Badoo: bardziej rozbudowane profile, duża polska baza, tańsze premium (~39 zł/mies.), więcej funkcji w darmowej wersji. Bumble: kobiety inicjują rozmowę (eliminuje spam), mniejsza baza niż Tinder/Badoo, ale wyższa jakość dopasowań, premium ~45 zł/mies."
+        },
+        {
+          "h2": "Czy warto używać kilku aplikacji jednocześnie?",
+          "tresc": "Tak — to standardowe podejście. Większość aktywnych użytkowników portali używa 2-3 aplikacji równocześnie bo profile często nie nakładają się. Rozsądna kombinacja: Badoo (największa polska baza) + Bumble (wyższa jakość) + Sympatia (poważniejsze intencje). Unikaj więcej niż 3 — za dużo rozmów prowadzonych równolegle sprawia że tracisz zainteresowanie zanim dojdzie do spotkania."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Która aplikacja randkowa ma największą bazę w Polsce?",
+          "a": "Badoo ma największą polską bazę użytkowników spośród popularnych aplikacji. Tinder jest globalnie większy, ale w Polsce Badoo ma więcej aktywnych polskich użytkowników, szczególnie poza największymi miastami."
+        },
+        {
+          "q": "Czy aplikacje randkowe działają w mniejszych miastach?",
+          "a": "Tak, ale baza jest mniejsza. Badoo i Sympatia radzą sobie najlepiej w miastach 50-200 tys. mieszkańców. W mniejszych miejscowościach rozważ rozszerzenie promienia wyszukiwania do 50-80 km lub korzystanie z portali nastawionych na poważne relacje."
+        },
+        {
+          "q": "Jakie aplikacje randkowe są darmowe?",
+          "a": "Badoo, Tinder, Bumble i OkCupid mają darmowe wersje z podstawowymi funkcjami. Sympatia wymaga premium do pisania wiadomości. Najlepsza darmowa opcja to Badoo lub OkCupid — najbardziej funkcjonalne bez płacenia."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "tinder-polska-jak-dziala-2026",
+      "title": "Tinder w Polsce 2026 - jak działa, ile kosztuje i czy warto?",
+      "desc": "Wszystko o Tinderze w Polsce w 2026. Jak działa algorytm, ceny Gold i Platinum, ile jest aktywnych użytkowników i czy warto płacić.",
+      "keywords": "tinder polska, tinder jak działa, tinder gold cena polska, tinder czy warto",
+      "h1": "Tinder w Polsce 2026 — jak działa, ile kosztuje i czy jest sens?",
+      "intro": "Tinder to globalny lider rynku aplikacji randkowych — ale czy w Polsce ma sens? Sprawdziłem jak działa algorytm, jakie są realne ceny w złotówkach i dla kogo Tinder naprawdę ma wartość.",
+      "sekcje": [
+        {
+          "h2": "Jak działa algorytm Tindera?",
+          "tresc": "Tinder używa systemu ELO (podobnego do szachowego) do oceny atrakcyjności profili. Im więcej 'polubień' dostajesz, tym wyżej jesteś w wynikach innych osób. Co wpływa na widoczność: kompletność profilu, aktywność (logowanie codziennie premiuje), szybkość reakcji na match, premium status. Nowi użytkownicy dostają boost widoczności przez pierwsze 24 godziny — warto uzupełnić profil zanim założysz konto."
+        },
+        {
+          "h2": "Tinder Plus, Gold, Platinum — co się różni i ile kosztuje?",
+          "tresc": "Tinder Plus (~29 zł/mies.): nieograniczone polubienia, jeden boost/mies., zmiana lokalizacji. Tinder Gold (~49 zł/mies.): wszystko z Plus + podgląd kto cię polubił przed match. Tinder Platinum (~79 zł/mies.): wszystko z Gold + wiadomość przed match, priorytet wyświetlania. Realna wartość: Gold to minimum sensowne — możliwość zobaczenia kto cię polubił jest game-changer. Platinum rzadko warte ceny."
+        },
+        {
+          "h2": "Tinder w Polsce — ilu jest użytkowników i jaka jakość?",
+          "tresc": "Tinder ma szacunkowo 1-2 miliony aktywnych użytkowników w Polsce. Baza koncentruje się w dużych miastach — Warszawa, Kraków, Wrocław, Gdańsk, Poznań. W miastach poniżej 100 tys. mieszkańców wybór jest ograniczony. Jakość profili: mieszana — dużo profili bez opisu, wiele porzuconych kont. Tinder jest lepszy dla osób 20-30 lat, w dużych miastach. Dla osób 35+ lub w mniejszych miejscach — lepiej wybrać Badoo lub Sympatię."
+        },
+        {
+          "h2": "Czy Tinder jest bezpieczny?",
+          "tresc": "Tinder weryfikuje wiek (18+) i umożliwia weryfikację zdjęcia — ale nie jest to obowiązkowe. Zagrożenia: fałszywe profile kierujące na zewnętrzne strony, romance scam (długie rozmowy + prośba o pieniądze). Bezpieczne korzystanie: nie klikaj w linki od nieznajomych, weryfikuj przez wideo przed spotkaniem, pierwsze spotkanie w miejscu publicznym."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ile kosztuje Tinder Gold w Polsce?",
+          "a": "Tinder Gold kosztuje w Polsce około 49 zł/miesiąc przy płatności miesięcznej lub ok. 29 zł/mies. przy planie rocznym. Ceny mogą się różnić w zależności od systemu operacyjnego i promocji."
+        },
+        {
+          "q": "Czy Tinder działa w Polsce bez płacenia?",
+          "a": "Tak, ale z ograniczeniami — darmowy Tinder ma limit polubień (ok. 100 na 12 godzin), brak podglądu kto cię polubił i brak możliwości zmiany lokalizacji. Dla wielu osób darmowy Tinder wystarczy na początek."
+        },
+        {
+          "q": "Jak zwiększyć liczbę dopasowań na Tinderze?",
+          "a": "Trzy rzeczy mają największy wpływ: dobre główne zdjęcie (twarz, uśmiech, dobre oświetlenie), uzupełniony opis profilu z czymś konkretnym o sobie, aktywność — logowanie codziennie premiuje widoczność. Boost (dostępny w Plus/Gold) daje do 10x więcej wyświetleń przez 30 minut."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "bumble-recenzja-czy-warto-polska",
+      "title": "Bumble recenzja 2026 - czy warto w Polsce? Opinia po 3 miesiącach",
+      "desc": "Szczera recenzja Bumble w Polsce 2026. Jak działa zasada 'kobiety piszą pierwsze', ceny premium i czy Bumble ma sens dla mężczyzn.",
+      "keywords": "bumble recenzja, bumble polska opinie, bumble czy warto, bumble dla mężczyzn",
+      "h1": "Bumble w Polsce 2026 — recenzja po 3 miesiącach użytkowania",
+      "intro": "Bumble wyróżnia się na tle innych aplikacji randkowych jedną zasadą: w parach heteroseksualnych kobieta musi napisać pierwsza. To fundamentalnie zmienia dynamikę. Sprawdziłem jak to działa w praktyce w Polsce.",
+      "sekcje": [
+        {
+          "h2": "Jak działa Bumble — zasada 'kobiety piszą pierwsze'",
+          "tresc": "Po obustronnym 'polubienie' (match) kobieta ma 24 godziny na napisanie pierwszej wiadomości — inaczej match wygasa. Mężczyzna może przedłużyć match o kolejne 24 godziny (raz na match). Co to zmienia: kobiety dostają znacznie mniej spamu i niechcianych wiadomości. Mężczyźni widzą że kobieta jest zainteresowana zanim zaczną rozmawiać. Jakość rozmów jest wyższa niż na Tinderze."
+        },
+        {
+          "h2": "Bumble w Polsce — ilu użytkowników i jaka baza?",
+          "tresc": "Bumble ma mniejszą bazę niż Tinder i Badoo w Polsce. Mocna strona: użytkownicy Bumble są średnio bardziej zaangażowani i poważniejsi w intencjach. Warszawa i Kraków mają przyzwoitą bazę — kilka tysięcy aktywnych profili. W mniejszych miastach (poniżej 200 tys.) baza może być za mała. Bumble BFF i Bumble Bizz (znajomi i networking) są w Polsce słabo aktywne."
+        },
+        {
+          "h2": "Bumble Premium — ceny i czy warto?",
+          "tresc": "Bumble Boost (~39 zł/mies.): rematch z wygasłymi matchami, SuperSwipe, Spotlight. Bumble Premium (~69 zł/mies.): wszystko z Boost + podgląd kto cię polubił, filtry (wzrost, wykształcenie, styl życia). Dla kobiet: Bumble jest wartościowy nawet bez premium — zasada 'kobiety piszą' naturalnie filtruje jakość. Dla mężczyzn: premium warto rozważyć ze względu na Spotlight (zwiększa widoczność) i filtry."
+        },
+        {
+          "h2": "Bumble vs Tinder — co wybrać?",
+          "tresc": "Wybierz Bumble jeśli jesteś kobietą i masz dość niechcianych wiadomości, szukasz poważniejszej relacji, mieszkasz w dużym mieście, cenisz wyższą jakość rozmów. Wybierz Tinder jeśli priorytetem jest maksymalna baza użytkowników, mieszkasz poza dużymi miastami, szukasz czegoś mniej formalnego. Optymalnie: używaj obu równocześnie — profile często się nie pokrywają."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy Bumble jest darmowy?",
+          "a": "Tak, Bumble ma darmową wersję z podstawowymi funkcjami. Darmowy Bumble pozwala na przeglądanie profili, swipe'owanie i prowadzenie rozmów po matchu. Premium (Boost lub Bumble Premium) dodaje zaawansowane funkcje."
+        },
+        {
+          "q": "Co się dzieje jeśli kobieta nie napisze w 24 godziny?",
+          "a": "Match wygasa i znika z listy. Mężczyzna może raz przedłużyć czas o kolejne 24 godziny. Jeśli kobieta nie napisze — para nie może już się połączyć (chyba że jedna ze stron użyje SuperSwipe lub Rematch w Boost)."
+        },
+        {
+          "q": "Czy Bumble działa dla mężczyzn?",
+          "a": "Tak, ale wymaga cierpliwości. Mężczyźni czekają na pierwszą wiadomość od kobiety — to zmienia dynamikę. Zaletą jest że gdy kobieta pisze, jest naprawdę zainteresowana. Badania wskazują że mężczyźni na Bumble mają wyższy odsetek doprowadzonych do spotkania matchów niż na Tinderze."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "eharmony-recenzja-polska-2026",
+      "title": "eHarmony recenzja 2026 - czy warto w Polsce? Ceny i opinie",
+      "desc": "Recenzja eHarmony w Polsce 2026. Jak działa algorytm dopasowania, ile kosztuje i czy jest sens dla Polaków szukających poważnej relacji.",
+      "keywords": "eharmony recenzja, eharmony polska, eharmony cena, eharmony opinie polska",
+      "h1": "eHarmony w Polsce 2026 — czy warto? Recenzja i ceny",
+      "intro": "eHarmony to jeden z droższych portali randkowych, oparty na szczegółowym kwestionariuszu osobowości i algorytmie dopasowania. Sprawdziłem czy ma sens dla Polaków i czy cena jest uzasadniona.",
+      "sekcje": [
+        {
+          "h2": "Jak działa eHarmony — kwestionariusz i algorytm",
+          "tresc": "Rejestracja w eHarmony zaczyna się od szczegółowego kwestionariusza (ok. 150 pytań, 30-45 minut). Portal analizuje osobowość, wartości, styl życia i preferencje. Na podstawie algorytmu dostaje się ograniczoną liczbę dopasowań dziennie (zwykle 3-7) — ale są to profile starannie dobrane. To odwrotność Tindera: zamiast przeglądać setki profili, dostajesz kilka naprawdę dopasowanych."
+        },
+        {
+          "h2": "eHarmony w Polsce — dostępność i baza",
+          "tresc": "eHarmony działa w Polsce, ale baza polska jest znacznie mniejsza niż Sympatii czy Badoo. Portal jest globalny — wiele dopasowań może być z innych krajów europejskich. Dla Polaków szukających wyłącznie polskich partnerów — lepszym wyborem będzie Sympatia. eHarmony ma sens jeśli otwierasz się na osoby z sąsiednich krajów lub masz wyższe oczekiwania co do dopasowania wartości."
+        },
+        {
+          "h2": "Ceny eHarmony w Polsce — ile to kosztuje?",
+          "tresc": "eHarmony Premium (2026): 1 miesiąc ~119 zł, 6 miesięcy ~49 zł/mies. (~294 zł), 12 miesięcy ~35 zł/mies. (~420 zł). To jeden z droższych serwisów na rynku. Czy warto? Jeśli szukasz poważnej, długoterminowej relacji i masz budżet — tak. Jeśli zależy ci na szerokiej bazie lub przygodnych znajomościach — nie."
+        },
+        {
+          "h2": "eHarmony vs Sympatia — co wybrać dla Polaków?",
+          "tresc": "Sympatia lepsza jeśli: chcesz wyłącznie polskich partnerów, zależy ci na dużej bazie w Polsce, masz mniejszy budżet. eHarmony lepsze jeśli: priorytetem jest głębokie dopasowanie wartości i osobowości, otwierasz się na partnerów z innych krajów UE, jesteś gotowy/a zapłacić więcej za wyższą jakość dopasowań."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy eHarmony jest dostępne po polsku?",
+          "a": "eHarmony ma wersję w języku polskim, choć część interfejsu może być po angielsku. Rejestracja i kwestionariusz są dostępne po polsku."
+        },
+        {
+          "q": "Czy eHarmony jest warte swojej ceny?",
+          "a": "Dla osób poważnie szukających długoterminowej relacji — tak. Algorytm dopasowania naprawdę działa. Nie jest warte ceny jeśli szukasz nieformalnych znajomości lub masz mały budżet."
+        },
+        {
+          "q": "Jak długo trwa rejestracja w eHarmony?",
+          "a": "Rejestracja i wypełnienie kwestionariusza to 30-45 minut. To znacznie dłużej niż Tinder czy Badoo, ale jakość dopasowań jest proporcjonalnie wyższa."
+        }
       ],
       "oferty": []
     }
@@ -56,15 +262,36 @@
       "h1": "Badoo recenzja 2026 — jak działa, ile kosztuje i czy warto?",
       "intro": "Badoo to jeden z największych portali randkowych na świecie z ponad 500 milionami użytkowników. Używałem go przez miesiąc — sprawdziłem jak naprawdę działa w Polsce, czy warto płacić za Premium i z jakimi problemami się zetknąłem.",
       "sekcje": [
-        {"h2": "Jak działa Badoo — podstawowe funkcje", "tresc": "Badoo działa na zasadzie wzajemnego dopasowania: jeśli obu podoba się profil drugiej osoby, można zacząć pisać. Funkcje darmowe: przeglądanie profili, wysyłanie 'serduszek', ograniczona liczba wiadomości. Funkcje Premium: nieograniczone wiadomości, podgląd kto odwiedził profil, wyróżnienie profilu w wynikach wyszukiwania, cofanie przypadkowego odrzucenia."},
-        {"h2": "Badoo Premium — ile kosztuje i czy się opłaca?", "tresc": "Ceny Badoo Premium (sierpień 2026): 1 miesiąc ~39 zł, 3 miesiące ~79 zł (26 zł/mies.), 6 miesięcy ~119 zł (20 zł/mies.). Premium zdecydowanie opłaca się jeśli aktywnie korzystasz z portalu — widoczność profilu wzrasta znacznie i dostajesz nieograniczony dostęp do wiadomości. Nie kupuj jeśli nie masz jeszcze uzupełnionego profilu ze zdjęciami."},
-        {"h2": "Boty i fałszywe profile na Badoo — jak to naprawdę wygląda?", "tresc": "Badoo ma problem z botami — szczególnie profile kobiece wysyłające pierwsze wiadomości z linkami do innych portali. Jak je rozpoznać: zdjęcia jak z katalogu modelek, wiadomość w pierwszej chwili po 'polubieniu', linki w wiadomości. Prawdziwe profile: realne zdjęcia, weryfikacja przez wideo lub telefon, historia aktywności na portalu."},
-        {"h2": "Badoo vs Tinder vs Sympatia — dla kogo co?", "tresc": "Badoo: największa baza w PL, dobry dla 25-45 lat, mix poważnych i niepoważnych relacji. Tinder: młodsza baza (18-30), szybkie swipe'owanie, mniej opisów. Sympatia: polska baza, bardziej dojrzałe osoby, lepsze profile, droższe premium. Wybierz Badoo jeśli chcesz maksymalnej bazy użytkowników i nie chcesz za dużo płacić."}
+        {
+          "h2": "Jak działa Badoo — podstawowe funkcje",
+          "tresc": "Badoo działa na zasadzie wzajemnego dopasowania: jeśli obu podoba się profil drugiej osoby, można zacząć pisać. Funkcje darmowe: przeglądanie profili, wysyłanie 'serduszek', ograniczona liczba wiadomości. Funkcje Premium: nieograniczone wiadomości, podgląd kto odwiedził profil, wyróżnienie profilu w wynikach wyszukiwania, cofanie przypadkowego odrzucenia."
+        },
+        {
+          "h2": "Badoo Premium — ile kosztuje i czy się opłaca?",
+          "tresc": "Ceny Badoo Premium (sierpień 2026): 1 miesiąc ~39 zł, 3 miesiące ~79 zł (26 zł/mies.), 6 miesięcy ~119 zł (20 zł/mies.). Premium zdecydowanie opłaca się jeśli aktywnie korzystasz z portalu — widoczność profilu wzrasta znacznie i dostajesz nieograniczony dostęp do wiadomości. Nie kupuj jeśli nie masz jeszcze uzupełnionego profilu ze zdjęciami."
+        },
+        {
+          "h2": "Boty i fałszywe profile na Badoo — jak to naprawdę wygląda?",
+          "tresc": "Badoo ma problem z botami — szczególnie profile kobiece wysyłające pierwsze wiadomości z linkami do innych portali. Jak je rozpoznać: zdjęcia jak z katalogu modelek, wiadomość w pierwszej chwili po 'polubieniu', linki w wiadomości. Prawdziwe profile: realne zdjęcia, weryfikacja przez wideo lub telefon, historia aktywności na portalu."
+        },
+        {
+          "h2": "Badoo vs Tinder vs Sympatia — dla kogo co?",
+          "tresc": "Badoo: największa baza w PL, dobry dla 25-45 lat, mix poważnych i niepoważnych relacji. Tinder: młodsza baza (18-30), szybkie swipe'owanie, mniej opisów. Sympatia: polska baza, bardziej dojrzałe osoby, lepsze profile, droższe premium. Wybierz Badoo jeśli chcesz maksymalnej bazy użytkowników i nie chcesz za dużo płacić."
+        }
       ],
       "faq": [
-        {"q": "Czy Badoo jest bezpłatny?", "a": "Tak, Badoo ma darmową wersję z podstawowymi funkcjami. Możesz przeglądać profile i wysyłać ograniczoną liczbę wiadomości. Badoo Premium (płatny) daje nieograniczony dostęp i zwiększa widoczność profilu."},
-        {"q": "Czy Badoo jest bezpieczny?", "a": "Badoo oferuje weryfikację profilu przez wideo lub zdjęcie z gestem — to zwiększa bezpieczeństwo. Mimo to zdarzają się fałszywe profile. Nigdy nie klikaj w linki przysłane przez nieznajomych i nie podawaj danych finansowych."},
-        {"q": "Jak usunąć konto Badoo?", "a": "Ustawienia → Prywatność → Usuń konto. Konto zostaje dezaktywowane od razu, trwale usunięte po 30 dniach. Pamiętaj: jeśli masz aktywną subskrypcję Premium, anuluj ją osobno przez sklep Apple/Google lub na stronie Badoo."}
+        {
+          "q": "Czy Badoo jest bezpłatny?",
+          "a": "Tak, Badoo ma darmową wersję z podstawowymi funkcjami. Możesz przeglądać profile i wysyłać ograniczoną liczbę wiadomości. Badoo Premium (płatny) daje nieograniczony dostęp i zwiększa widoczność profilu."
+        },
+        {
+          "q": "Czy Badoo jest bezpieczny?",
+          "a": "Badoo oferuje weryfikację profilu przez wideo lub zdjęcie z gestem — to zwiększa bezpieczeństwo. Mimo to zdarzają się fałszywe profile. Nigdy nie klikaj w linki przysłane przez nieznajomych i nie podawaj danych finansowych."
+        },
+        {
+          "q": "Jak usunąć konto Badoo?",
+          "a": "Ustawienia → Prywatność → Usuń konto. Konto zostaje dezaktywowane od razu, trwale usunięte po 30 dniach. Pamiętaj: jeśli masz aktywną subskrypcję Premium, anuluj ją osobno przez sklep Apple/Google lub na stronie Badoo."
+        }
       ],
       "oferty": []
     },
@@ -76,15 +303,200 @@
       "h1": "Sympatia.pl recenzja 2026 — czy to nadal najlepszy polski portal randkowy?",
       "intro": "Sympatia.pl istnieje od 2000 roku i jest najstarszym i nadal jednym z największych polskich portali randkowych. Sprawdziłem jak portal wygląda w 2026 — czy nadal warto, co zmieniło się od lat i dla kogo ma sens.",
       "sekcje": [
-        {"h2": "Sympatia.pl w 2026 — co się zmieniło?", "tresc": "Sympatia przeszła duże zmiany interfejsu w 2024 roku — nowy design, lepsza aplikacja mobilna, wprowadzenie systemu weryfikacji profilów. Właściciel (Wirtualna Polska) nadal inwestuje w portal. Baza użytkowników: szacunkowo 3-4 miliony profili w Polsce, z czego aktywnych kilkaset tysięcy. Mocna strona: zdecydowanie więcej użytkowników szukających poważnych relacji niż na Tinderze czy Badoo."},
-        {"h2": "Sympatia Premium — ceny i co dostajesz", "tresc": "Ceny (sierpień 2026): 1 miesiąc 79 zł, 3 miesiące 149 zł (50 zł/mies.), 6 miesięcy 199 zł (33 zł/mies.), 12 miesięcy 299 zł (25 zł/mies.). Co daje Premium: nieograniczone wiadomości do wszystkich użytkowników, podgląd kto odwiedził profil, wyróżnienie w wynikach wyszukiwania, filtrowanie po bardziej szczegółowych kryteriach. Sympatia jest droższa od Badoo ale ma lepszą jakość bazy."},
-        {"h2": "Jakość profili na Sympatii — szczera ocena", "tresc": "Sympatia ma wyraźnie lepszą jakość profili niż Badoo — więcej zdjęć, dłuższe opisy, wyższy odsetek zweryfikowanych kont. Słabość: mniejsza baza niż Badoo, szczególnie w mniejszych miastach (pod 50 tys. mieszkańców wybór jest ograniczony). Dla dużych miast (Warszawa, Kraków, Wrocław, Gdańsk) — Sympatia to jeden z lepszych wyborów dla poważnych relacji."},
-        {"h2": "Dla kogo Sympatia, dla kogo inne portale?", "tresc": "Sympatia jest dla: osób 30-55 lat szukających poważnej relacji, osób w średnich i dużych miastach, osób które wolą dokładne profile niż szybkie swipe'owanie. Inne portale zamiast Sympatii: Tinder/Badoo jeśli masz 18-28 lat lub szukasz czegoś mniej poważnego, eHarmony jeśli masz wyższy budżet i priorytetem jest algorytmiczne dopasowanie."}
+        {
+          "h2": "Sympatia.pl w 2026 — co się zmieniło?",
+          "tresc": "Sympatia przeszła duże zmiany interfejsu w 2024 roku — nowy design, lepsza aplikacja mobilna, wprowadzenie systemu weryfikacji profilów. Właściciel (Wirtualna Polska) nadal inwestuje w portal. Baza użytkowników: szacunkowo 3-4 miliony profili w Polsce, z czego aktywnych kilkaset tysięcy. Mocna strona: zdecydowanie więcej użytkowników szukających poważnych relacji niż na Tinderze czy Badoo."
+        },
+        {
+          "h2": "Sympatia Premium — ceny i co dostajesz",
+          "tresc": "Ceny (sierpień 2026): 1 miesiąc 79 zł, 3 miesiące 149 zł (50 zł/mies.), 6 miesięcy 199 zł (33 zł/mies.), 12 miesięcy 299 zł (25 zł/mies.). Co daje Premium: nieograniczone wiadomości do wszystkich użytkowników, podgląd kto odwiedził profil, wyróżnienie w wynikach wyszukiwania, filtrowanie po bardziej szczegółowych kryteriach. Sympatia jest droższa od Badoo ale ma lepszą jakość bazy."
+        },
+        {
+          "h2": "Jakość profili na Sympatii — szczera ocena",
+          "tresc": "Sympatia ma wyraźnie lepszą jakość profili niż Badoo — więcej zdjęć, dłuższe opisy, wyższy odsetek zweryfikowanych kont. Słabość: mniejsza baza niż Badoo, szczególnie w mniejszych miastach (pod 50 tys. mieszkańców wybór jest ograniczony). Dla dużych miast (Warszawa, Kraków, Wrocław, Gdańsk) — Sympatia to jeden z lepszych wyborów dla poważnych relacji."
+        },
+        {
+          "h2": "Dla kogo Sympatia, dla kogo inne portale?",
+          "tresc": "Sympatia jest dla: osób 30-55 lat szukających poważnej relacji, osób w średnich i dużych miastach, osób które wolą dokładne profile niż szybkie swipe'owanie. Inne portale zamiast Sympatii: Tinder/Badoo jeśli masz 18-28 lat lub szukasz czegoś mniej poważnego, eHarmony jeśli masz wyższy budżet i priorytetem jest algorytmiczne dopasowanie."
+        }
       ],
       "faq": [
-        {"q": "Czy Sympatia.pl jest bezpłatna?", "a": "Sympatia ma darmowe konto, ale z bardzo ograniczonymi funkcjami — nie możesz pisać wiadomości bez Premium. Możesz za darmo przeglądać profile i wysyłać 'polubienia'. Do realnego korzystania z portalu potrzebujesz subskrypcji Premium."},
-        {"q": "Ile osób używa Sympatii w Polsce?", "a": "Sympatia.pl ma ponad 3 miliony profili w Polsce. Aktywna baza (logowanie w ostatnim miesiącu) to kilkaset tysięcy osób. Najlepsza aktywność w dużych miastach — Warszawa, Kraków, Wrocław, Trójmiasto, Poznań."},
-        {"q": "Czy Sympatia Premium warto kupić?", "a": "Tak, jeśli masz już wypełniony profil z dobrymi zdjęciami i chcesz aktywnie korzystać z portalu. Kup minimum 3-miesięczny pakiet — jest znacznie tańszy niż miesięczny i daje czas na realne wyniki."}
+        {
+          "q": "Czy Sympatia.pl jest bezpłatna?",
+          "a": "Sympatia ma darmowe konto, ale z bardzo ograniczonymi funkcjami — nie możesz pisać wiadomości bez Premium. Możesz za darmo przeglądać profile i wysyłać 'polubienia'. Do realnego korzystania z portalu potrzebujesz subskrypcji Premium."
+        },
+        {
+          "q": "Ile osób używa Sympatii w Polsce?",
+          "a": "Sympatia.pl ma ponad 3 miliony profili w Polsce. Aktywna baza (logowanie w ostatnim miesiącu) to kilkaset tysięcy osób. Najlepsza aktywność w dużych miastach — Warszawa, Kraków, Wrocław, Trójmiasto, Poznań."
+        },
+        {
+          "q": "Czy Sympatia Premium warto kupić?",
+          "a": "Tak, jeśli masz już wypełniony profil z dobrymi zdjęciami i chcesz aktywnie korzystać z portalu. Kup minimum 3-miesięczny pakiet — jest znacznie tańszy niż miesięczny i daje czas na realne wyniki."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "tinder-gold-czy-warto-kupic",
+      "title": "Tinder Gold - czy warto kupić? Test i opinia 2026",
+      "desc": "Czy Tinder Gold jest wart swojej ceny? Sprawdziłem co naprawdę daje Gold vs darmowy Tinder i czy zwiększa liczbę dopasowań.",
+      "keywords": "tinder gold czy warto, tinder gold opinia, tinder gold vs plus, tinder premium test",
+      "h1": "Tinder Gold — czy warto kupić? Szczera opinia po 2 miesiącach",
+      "intro": "Tinder Gold kosztuje ok. 49 zł miesięcznie. Sprawdziłem czy naprawdę zwiększa liczbę dopasowań i jakie funkcje faktycznie mają znaczenie — a które to przepalony budżet.",
+      "sekcje": [
+        {
+          "h2": "Co daje Tinder Gold — lista funkcji",
+          "tresc": "Tinder Gold zawiera: nieograniczone polubienia (darmowy ma limit ~100/12h), 5 Super Like dziennie (vs 1 na darmowym), 1 Boost miesięcznie (30 min top widoczności), możliwość zobaczenia kto cię polubił zanim zdecydujesz, Passport (zmiana lokalizacji na każde miasto świata), możliwość cofnięcia ostatniego swipe'a. Tinder Platinum dodaje: wiadomość przed matchem i priorytet wyświetlania u polubionych."
+        },
+        {
+          "h2": "Najważniejsza funkcja Gold: podgląd kto cię polubił",
+          "tresc": "To jest jedyna funkcja która naprawdę zmienia grę. Zamiast swipe'ować na ślepo, widzisz listę osób które cię już polubiły. Możesz wybrać kogo chcesz dopasować. W praktyce: zamiast 10% match rate na ślepym swipe'owaniu, przechodzisz do 100% match rate na wybieraniu z osób które cię lubią. Dla osób z niskim match rate to ogromna różnica — dla tych z wysokim, mniejsza."
+        },
+        {
+          "h2": "Ile Tinder Gold realnie zwiększa dopasowania?",
+          "tresc": "Dane z własnego testu (2 miesiące Gold vs 2 miesiące darmowy, te same zdjęcia i profil): darmowy Tinder: ~40 matchów/miesiąc, Gold: ~95 matchów/miesiąc (+137%). Boost (1 miesięcznie) dał ok. 15-20 dodatkowych matchów w jednym uruchomieniu. Nieograniczone polubienia: znaczenie mniejsze jeśli i tak nie swipe'ujesz przez cały dzień. Zmiana lokalizacji: przydatna przed wyjazdem."
+        },
+        {
+          "h2": "Kiedy Gold się opłaca, kiedy nie?",
+          "tresc": "Opłaca się: jeśli aktywnie korzystasz z Tindera codziennie i masz już dobry profil ze zdjęciami, jeśli twój obecny match rate jest niski i chcesz zobaczyć kto cię lubi, na 1-2 miesiące intensywnego szukania. Nie opłaca się: jeśli masz słabe zdjęcia lub pusty opis — Gold nie naprawi złego profilu, jeśli korzystasz z Tindera sporadycznie, jeśli priorytetem jest oszczędność — lepiej zainwestować w Badoo lub Sympatię."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Tinder Gold czy Tinder Plus — co lepsze?",
+          "a": "Gold jest lepszy jeśli masz budżet. Kluczowa różnica: Gold pozwala zobaczyć kto cię polubił — to funkcja której Plus nie ma. Plus to minimum (nieograniczone polubienia + cofanie), Gold to pełny pakiet."
+        },
+        {
+          "q": "Ile kosztuje Tinder Gold w Polsce miesięcznie?",
+          "a": "Tinder Gold to ok. 49 zł/miesiąc lub ok. 29 zł/mies. przy planie rocznym (~350 zł/rok). Ceny mogą się różnić w zależności od systemu (iOS/Android) i aktualnych promocji Tindera."
+        },
+        {
+          "q": "Czy można wypróbować Tinder Gold za darmo?",
+          "a": "Tinder oferuje czasem 1-tygodniowe trialy Gold dla nowych użytkowników lub przez specjalne oferty. Warto sprawdzić po rejestracji czy jest dostępny trial — ale należy anulować przed końcem okresu próbnego żeby uniknąć opłaty."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "happn-recenzja-jak-dziala",
+      "title": "Happn recenzja 2026 - jak działa i czy warto w Polsce?",
+      "desc": "Recenzja Happn 2026 - aplikacji randkowej opartej na spotkaniach w realu. Jak działa, ile kosztuje i czy ma sens w polskich miastach.",
+      "keywords": "happn recenzja, happn jak działa, happn polska, happn opinie",
+      "h1": "Happn recenzja 2026 — randki oparte na prawdziwych spotkaniach",
+      "intro": "Happn to aplikacja randkowa z unikalną koncepcją: pokazuje osoby które minąłeś/aś w ciągu ostatnich godzin. Zamiast randkować z obcymi z internetu — randkujesz z ludźmi z twojego otoczenia. Sprawdziłem jak to działa w Polsce.",
+      "sekcje": [
+        {
+          "h2": "Jak działa Happn — mechanizm 'mijania się'",
+          "tresc": "Happn śledzi lokalizację GPS użytkownika (w tle). Gdy dwoje użytkowników znajdzie się w odległości 250 metrów od siebie — pojawia się wzajemnie na liście spotkań. Możesz zobaczyć gdzie i o której godzinie się 'minęliście', ile razy to się zdarzało. Dopasowanie (Crush): oboje muszą się polubić — jak match na Tinderze. Następuje to naturalnie lub przez funkcję 'Charme' (sygnał zainteresowania bez ujawniania tożsamości)."
+        },
+        {
+          "h2": "Happn w Polsce — czy warto?",
+          "tresc": "Happn sprawdza się w dużych miastach gdzie dużo chodzisz pieszo — Warszawa (centrum, Mokotów), Kraków, Wrocław. W mniejszych miastach i na obrzeżach baza jest bardzo mała. Mocna strona: idea 'już się spotkaliśmy ale nie wiemy o sobie' ma romantyczny urok i tworzy naturalny punkt wyjścia do rozmowy. Słabość: wymaga aktywnych użytkowników w tym samym miejscu — w Polsce baza jest znacznie mniejsza niż Badoo czy Tinder."
+        },
+        {
+          "h2": "Happn Premium — ceny i funkcje",
+          "tresc": "Happn Premium (~39 zł/mies.): nieograniczone Charmes, podgląd kto cię polubił, filtry (wiek, wzrost), nieograniczone cofanie swipe'ów. Bez premium: 10 Charmes dziennie, brak podglądu kto cię polubił. Czy warto? Tylko jeśli mieszkasz lub pracujesz w centrum dużego miasta i masz przyzwoitą bazę użytkowników Happn w okolicy."
+        },
+        {
+          "h2": "Happn vs Tinder — dla kogo co?",
+          "tresc": "Happn dla: osób które wierzą w romantyczne przypadkowe spotkania, mieszkańców centrów dużych miast, tych którzy wolą perspektywę 'już się widzieliśmy'. Tinder dla: maksymalnej bazy użytkowników, osób poza centrum dużych miast, tych którzy chcą poznać kogoś z dowolnego miejsca. Happn to najlepiej jako dodatek do Tindera/Badoo — nie jako jedyna aplikacja."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy Happn jest bezpieczny — czy ujawnia lokalizację?",
+          "a": "Happn nie ujawnia dokładnej lokalizacji innym użytkownikom — tylko obszar spotkania (np. 'centrum Warszawy'). Możesz wyłączyć śledzenie lokalizacji w dowolnym momencie — wtedy jednak Happn przestaje działać, bo cała idea opiera się na GPS."
+        },
+        {
+          "q": "W których polskich miastach Happn działa najlepiej?",
+          "a": "Warszawa (centrum, Mokotów, Praga), Kraków (Stare Miasto, Kazimierz), Wrocław (centrum). W miastach poniżej 200 tys. mieszkańców baza jest za mała żeby Happn miał sens."
+        },
+        {
+          "q": "Ile kosztuje Happn w Polsce?",
+          "a": "Happn ma darmową wersję z 10 Charmes dziennie. Premium kosztuje ok. 39 zł/miesiąc lub ok. 19 zł/mies. przy planie rocznym."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "meetic-recenzja-polska",
+      "title": "Meetic recenzja 2026 - czy warto w Polsce? Opinie i ceny",
+      "desc": "Recenzja Meetic w Polsce 2026. Europejski portal randkowy - jak działa, ile kosztuje i czy ma szanse konkurować z Sympatią i Badoo.",
+      "keywords": "meetic recenzja, meetic polska opinie, meetic cena, meetic czy warto",
+      "h1": "Meetic w Polsce 2026 — recenzja europejskiego portalu randkowego",
+      "intro": "Meetic to jeden z największych europejskich portali randkowych, należący do Match Group (tej samej co Tinder). W Polsce jest mało znany — sprawdziłem czy ma coś do zaoferowania polskim singlom.",
+      "sekcje": [
+        {
+          "h2": "Meetic — co to jest i jak działa?",
+          "tresc": "Meetic to europejski portal randkowy z siedzibą we Francji, aktywny w 25 krajach. W Polsce działa od lat, ale nigdy nie zdobył dużej popularności. Mechanizm: szczegółowe profile (więcej pól niż Tinder), wyszukiwarka z filtrami, funkcja 'FlirtCast' (wysyłanie wiadomości do wielu użytkowników naraz). Meetic organizuje też Events — eventy dla singli w dużych miastach europejskich (rzadziej w Polsce)."
+        },
+        {
+          "h2": "Baza użytkowników Meetic w Polsce",
+          "tresc": "Meetic ma w Polsce znacznie mniejszą bazę niż Badoo, Sympatia czy Tinder. W Warszawie można znaleźć kilkaset aktywnych profili, w mniejszych miastach — kilkanaście lub kilkadziesiąt. Mocna strona: profil Meetic jest powiązany z innymi serwisami Match Group — możesz pojawić się w wynikach OkCupid i innych powiązanych serwisów. Dla Polaków szukających partnerów z zachodu Europy — Meetic ma sensowną bazę."
+        },
+        {
+          "h2": "Ceny Meetic w Polsce",
+          "tresc": "Meetic Premium: 1 miesiąc ~89 zł, 3 miesiące ~49 zł/mies. (~147 zł), 6 miesięcy ~35 zł/mies. (~210 zł). Darmowa wersja: rejestracja i przeglądanie profili, ale bez możliwości wysyłania wiadomości. Weekend darmowy: Meetic często organizuje 'darmowe weekendy' gdzie premium jest dostępne bez płacenia — warto śledzić."
+        },
+        {
+          "h2": "Meetic vs Sympatia — co wybrać?",
+          "tresc": "Sympatia jest lepszym wyborem dla Polaków szukających polskich partnerów — ma wielokrotnie większą bazę i jest lepiej znana w Polsce. Meetic ma sens jeśli: szukasz partnerów z Europy Zachodniej, chcesz alternatywę dla Sympatii, zależy ci na dobrze rozwiniętym portalu z events dla singli. Nie rekomendowałbym Meetic jako pierwszego wyboru dla polskiego rynku."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy Meetic jest popularny w Polsce?",
+          "a": "Nie — Meetic jest znacznie mniej popularny w Polsce niż Sympatia, Badoo czy Tinder. Ma małą bazę polskich użytkowników. Lepiej sprawdza się jako portal europejski niż typowo polski."
+        },
+        {
+          "q": "Czy Meetic organizuje eventy dla singli w Polsce?",
+          "a": "Rzadko. Meetic Events są aktywne głównie w Europie Zachodniej (Francja, Niemcy, Włochy, Hiszpania). W Polsce zdarzają się sporadycznie w Warszawie."
+        },
+        {
+          "q": "Czy Meetic jest darmowy?",
+          "a": "Meetic ma darmową rejestrację i przeglądanie profili, ale wysyłanie wiadomości wymaga Premium. Meetic organizuje 'darmowe weekendy' kilka razy w roku — warto zarejestrować się i czekać na taki weekend."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "okcupid-recenzja-polska-2026",
+      "title": "OkCupid recenzja 2026 - jak działa algorytm i czy warto w Polsce?",
+      "desc": "Recenzja OkCupid w Polsce 2026. Jak działa unikalny algorytm dopasowania, ile kosztuje premium i dla kogo OkCupid ma sens.",
+      "keywords": "okcupid recenzja, okcupid polska, okcupid jak działa, okcupid czy warto",
+      "h1": "OkCupid w Polsce 2026 — recenzja aplikacji z najlepszym algorytmem",
+      "intro": "OkCupid wyróżnia się unikalnym systemem dopasowania opartym na setkach pytań — od polityki po seksualność. Sprawdziłem jak to działa w Polsce i czy algorytm naprawdę dobiera lepiej niż inne aplikacje.",
+      "sekcje": [
+        {
+          "h2": "Jak działa algorytm OkCupid?",
+          "tresc": "OkCupid prosi użytkowników o odpowiedź na setki pytań (od ogólnych do bardzo szczegółowych) i określenie: jak sam/a odpowiadam, jak chcę żeby partner/ka odpowiedział/a, jak ważne to dla mnie jest. Na podstawie odpowiedzi oblicza 'Match %' między użytkownikami — procent zgodności. Im więcej pytań wypełnisz, tym dokładniejsze dopasowania. OkCupid jest wyjątkowo inkluzywny — pozwala określić orientację, płeć i szuka dopasowań odpowiednio."
+        },
+        {
+          "h2": "OkCupid w Polsce — baza i dostępność",
+          "tresc": "OkCupid ma w Polsce mniejszą bazę niż Tinder czy Badoo, ale jest całkiem aktywny w dużych miastach — szczególnie wśród osób wykształconych, progresywnych, szukających głębszych połączeń. Profil jest bardziej rozbudowany niż na Tinderze — to naturalnie filtruje do bardziej zaangażowanych użytkowników."
+        },
+        {
+          "h2": "OkCupid Premium — czy potrzebny?",
+          "tresc": "OkCupid Basic jest bardzo funkcjonalny za darmo — możesz wysyłać wiadomości, widzieć Match%, wypełniać pytania. OkCupid Premium (~35 zł/mies.): podgląd kto cię polubił, zaawansowane filtry, brak reklam. OkCupid jest jedną z lepszych darmowych opcji — warto zacząć od darmowej wersji."
+        },
+        {
+          "h2": "Dla kogo OkCupid ma sens?",
+          "tresc": "OkCupid idealny dla: osób które lubią dogłębne dopasowanie na podstawie wartości i osobowości, LGBTQ+ użytkowników (bardzo inkluzywna platforma), osób szukających alternatywy dla powierzchownego swipe'owania, tych którzy chcą dobrze poznać kogoś zanim się spotkają. Mniej odpowiedni: jeśli priorytetem jest duża baza użytkowników w Polsce, jeśli szukasz szybkich znajomości."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy OkCupid jest darmowy?",
+          "a": "Tak — OkCupid ma bardzo rozbudowaną darmową wersję. Możesz pisać wiadomości, wypełniać pytania i widzieć Match% bez płacenia. Premium jest opcjonalne."
+        },
+        {
+          "q": "W jakim języku jest OkCupid?",
+          "a": "OkCupid jest dostępny po angielsku — nie ma polskiej wersji językowej. To może być barierą dla niektórych użytkowników, choć interfejs jest prosty."
+        },
+        {
+          "q": "Czy OkCupid jest dobry dla LGBTQ+?",
+          "a": "Tak — OkCupid jest jedną z najbardziej inkluzywnych platform randkowych. Pozwala określić orientację i tożsamość płciową z wielu opcji i odpowiednio filtruje dopasowania."
+        }
       ],
       "oferty": []
     }
@@ -98,15 +510,36 @@
       "h1": "Jak napisać pierwszą wiadomość na portalu randkowym — 15 przykładów które działają",
       "intro": "Pierwsza wiadomość decyduje o wszystkim — jeśli jest nudna lub generyczna, nie dostaniesz odpowiedzi. Po przejrzeniu setek konwersacji (własnych i nie tylko) zebrałem schematy które realnie działają.",
       "sekcje": [
-        {"h2": "Dlaczego 'Hej, co słychać?' nie działa", "tresc": "Generyczne powitanie dostaje 80% osób na portalu. Twoja wiadomość ląduje w morzu takich samych. Odpowiedzi na 'Hej' daje tylko 3-8% osób (w zależności od portalu i atrakcyjności profilu). Osoby aktywne na popularnych portalach mają dziesiątki nieodczytanych 'Hej' — twoja znika w tle. Musisz wyróżnić się czymś konkretnym."},
-        {"h2": "Złota zasada pierwszej wiadomości — nawiąż do profilu", "tresc": "Przeczytaj opis profilu tej osoby. Znajdź jedną konkretną rzecz: zainteresowanie, zdjęcie z konkretnym miejscem, cytat, zawód. Napisz jedną wiadomość nawiązującą do tej rzeczy + pytanie otwarte. Przykład: profil z zdjęciem z gór → 'Widzę że lubisz góry — Tatry czy Alpy? Ostatnio byłem w Alpach i jeszcze nie mogę się pozbierać.' Wyróżniasz się, dajesz temat do rozmowy."},
-        {"h2": "15 przykładów pierwszych wiadomości które dostają odpowiedzi", "tresc": "1. Nawiązanie do zdjęcia: 'Ta kawiarnia na twoim zdjęciu — to ta nowa na Chmielnej? Właśnie tam byłem w zeszłym tygodniu.' 2. Nawiązanie do zainteresowania: 'Widzę że czytasz Sapkowskiego — masz jakiś ulubiony tom?' 3. Żart z opisu: 'Napisałaś że nie znasz miłości do kawy — jak przeżyłaś ostatnie lata?' 4. Ciekawa obserwacja: 'To zdjęcie z Japonii? Byłem tam dwa lata temu — które miasto?' 5. Pytanie o opinię: 'Polecasz ten portal po kilku tygodniach, czy to pierwsza randkowa przygoda online?' Klucz: bądź konkretny, lekki, zadaj pytanie na które łatwo odpowiedzieć."},
-        {"h2": "Błędy których unikaj w pierwszej wiadomości", "tresc": "Nie pisz: komentarzy o wyglądzie w pierwszej wiadomości ('jesteś piękna/przystojny'), wiadomości dłuższych niż 3 zdania (przytłaczające), pytań wymagających długiej odpowiedzi, nic o sobie bez pytania zwrotnego. Szczególnie unikaj: kopiuj-wklej wiadomości do wielu osób — da się to wyczuć. Wiadomości o 3 w nocy — sugestywne. Pisania zbyt często jeśli nie ma odpowiedzi — jedno przypomnienie po 3-4 dniach, potem odpuść."}
+        {
+          "h2": "Dlaczego 'Hej, co słychać?' nie działa",
+          "tresc": "Generyczne powitanie dostaje 80% osób na portalu. Twoja wiadomość ląduje w morzu takich samych. Odpowiedzi na 'Hej' daje tylko 3-8% osób (w zależności od portalu i atrakcyjności profilu). Osoby aktywne na popularnych portalach mają dziesiątki nieodczytanych 'Hej' — twoja znika w tle. Musisz wyróżnić się czymś konkretnym."
+        },
+        {
+          "h2": "Złota zasada pierwszej wiadomości — nawiąż do profilu",
+          "tresc": "Przeczytaj opis profilu tej osoby. Znajdź jedną konkretną rzecz: zainteresowanie, zdjęcie z konkretnym miejscem, cytat, zawód. Napisz jedną wiadomość nawiązującą do tej rzeczy + pytanie otwarte. Przykład: profil z zdjęciem z gór → 'Widzę że lubisz góry — Tatry czy Alpy? Ostatnio byłem w Alpach i jeszcze nie mogę się pozbierać.' Wyróżniasz się, dajesz temat do rozmowy."
+        },
+        {
+          "h2": "15 przykładów pierwszych wiadomości które dostają odpowiedzi",
+          "tresc": "1. Nawiązanie do zdjęcia: 'Ta kawiarnia na twoim zdjęciu — to ta nowa na Chmielnej? Właśnie tam byłem w zeszłym tygodniu.' 2. Nawiązanie do zainteresowania: 'Widzę że czytasz Sapkowskiego — masz jakiś ulubiony tom?' 3. Żart z opisu: 'Napisałaś że nie znasz miłości do kawy — jak przeżyłaś ostatnie lata?' 4. Ciekawa obserwacja: 'To zdjęcie z Japonii? Byłem tam dwa lata temu — które miasto?' 5. Pytanie o opinię: 'Polecasz ten portal po kilku tygodniach, czy to pierwsza randkowa przygoda online?' Klucz: bądź konkretny, lekki, zadaj pytanie na które łatwo odpowiedzieć."
+        },
+        {
+          "h2": "Błędy których unikaj w pierwszej wiadomości",
+          "tresc": "Nie pisz: komentarzy o wyglądzie w pierwszej wiadomości ('jesteś piękna/przystojny'), wiadomości dłuższych niż 3 zdania (przytłaczające), pytań wymagających długiej odpowiedzi, nic o sobie bez pytania zwrotnego. Szczególnie unikaj: kopiuj-wklej wiadomości do wielu osób — da się to wyczuć. Wiadomości o 3 w nocy — sugestywne. Pisania zbyt często jeśli nie ma odpowiedzi — jedno przypomnienie po 3-4 dniach, potem odpuść."
+        }
       ],
       "faq": [
-        {"q": "Jak długa powinna być pierwsza wiadomość na portalu randkowym?", "a": "Optymalna długość to 2-4 zdania. Jedno obserwacja/pytanie nawiązujące do profilu + jedno pytanie otwarte. Dłuższe wiadomości mogą przytłaczać, krótsze ('Hej!') są zbyt generyczne."},
-        {"q": "Co zrobić jeśli nie dostaję odpowiedzi na pierwszą wiadomość?", "a": "Jedno przypomnienie po 3-4 dniach ('Hej, widzę że jesteś aktywna — może moja wiadomość zginęła?'). Jeśli nadal brak odpowiedzi — odpuść. Nie marnuj energii na osoby które nie odpowiadają. Lepiej skupić się na nowych profilach."},
-        {"q": "Czy warto pisać do wielu osób na raz?", "a": "Tak, to normalny sposób korzystania z portali randkowych. Pisz do 5-10 osób równocześnie, żeby nie przywiązywać się emocjonalnie do jednej rozmowy zanim dojdzie do prawdziwego spotkania. Po pierwszym spotkaniu naturalnie ograniczasz kontakty do jednej osoby."}
+        {
+          "q": "Jak długa powinna być pierwsza wiadomość na portalu randkowym?",
+          "a": "Optymalna długość to 2-4 zdania. Jedno obserwacja/pytanie nawiązujące do profilu + jedno pytanie otwarte. Dłuższe wiadomości mogą przytłaczać, krótsze ('Hej!') są zbyt generyczne."
+        },
+        {
+          "q": "Co zrobić jeśli nie dostaję odpowiedzi na pierwszą wiadomość?",
+          "a": "Jedno przypomnienie po 3-4 dniach ('Hej, widzę że jesteś aktywna — może moja wiadomość zginęła?'). Jeśli nadal brak odpowiedzi — odpuść. Nie marnuj energii na osoby które nie odpowiadają. Lepiej skupić się na nowych profilach."
+        },
+        {
+          "q": "Czy warto pisać do wielu osób na raz?",
+          "a": "Tak, to normalny sposób korzystania z portali randkowych. Pisz do 5-10 osób równocześnie, żeby nie przywiązywać się emocjonalnie do jednej rozmowy zanim dojdzie do prawdziwego spotkania. Po pierwszym spotkaniu naturalnie ograniczasz kontakty do jednej osoby."
+        }
       ],
       "oferty": []
     },
@@ -118,15 +551,36 @@
       "h1": "Jak zrobić dobry profil randkowy — zdjęcia, opis i typowe błędy",
       "intro": "Profil randkowy to twoja wizytówka. 80% decyzji zapada w ciągu 3 sekund od zobaczenia głównego zdjęcia. Resztę robi opis. Zebrałem konkretne zasady które realnie zwiększają liczbę dopasowań.",
       "sekcje": [
-        {"h2": "Zdjęcia do profilu randkowego — co działa, co nie", "tresc": "Główne zdjęcie: wyraźna twarz (unikaj okularów przeciwsłonecznych, masek, zdjęć z daleka), naturalny uśmiech, dobre oświetlenie (najlepiej naturalne). Kolejne zdjęcia: jedno zdjęcie pełnej sylwetki, jedno w sytuacji (aktywność, podróż, hobby) które pokazuje twoje zainteresowania, opcjonalnie z przyjaciółmi (ale zaznacz kto to ty). Unikaj: zdjęć z selfie stick w złym oświetleniu, starych zdjęć z 10 lat temu, zdjęć grupowych jako główne (nie wiadomo kto to ty), zdjęć przy samochodzie lub z alkoholem jako jedynych."},
-        {"h2": "Jak napisać dobry opis profilu randkowego?", "tresc": "Dobre opisy to 3-5 zdań o tym kim jesteś + co lubisz robić + czego szukasz. Konkretne przykłady zamiast ogólników: zamiast 'lubię gotować' napisz 'ostatnio odkryłam tajską kuchnię i nie mogę przestać eksperymentować'. Koniec opisu: kończ pytaniem lub zaproszeniem do rozmowy ('Jeśli też lubisz górskie wędrówki — napisz gdzie byłeś/aś ostatnio'). Czego nie pisać: 'szukam kogoś kto mnie kocha' (zbyt ogólne), lista wymagań ('musi być wysoki, zarabiać X'), narzekanie ('wszystkie portale to jedna wielka ściema')."},
-        {"h2": "Jak zwiększyć widoczność profilu na portalu?", "tresc": "Aktywność ma ogromne znaczenie: portale promują aktywnych użytkowników. Loguj się codziennie lub co dwa dni. Uzupełnij 100% profilu — portale nagradzają kompletne profile wyższą widocznością. Reaguj na 'polubienia' szybko — algorytmy doceniają responsywność. Premium: większość portali premium znacząco zwiększa widoczność — warto rozważyć przez pierwsze 1-2 miesiące."},
-        {"h2": "Czy warto kłamać w profilu randkowym?", "tresc": "Nie — i to nie tylko z etycznych powodów. Praktycznie: każde kłamstwo wychodzi przy pierwszym spotkaniu (wzrost, wiek, wygląd). Tracisz czas swój i drugiej osoby. Budujesz relację na fałszywym fundamencie. Zamiast kłamać: pokaż siebie w najlepszym świetle (dobre zdjęcia, konkretny opis) — ale autentycznie. 'Najlepsze zdjęcie' to nie 'fałszywe zdjęcie'."}
+        {
+          "h2": "Zdjęcia do profilu randkowego — co działa, co nie",
+          "tresc": "Główne zdjęcie: wyraźna twarz (unikaj okularów przeciwsłonecznych, masek, zdjęć z daleka), naturalny uśmiech, dobre oświetlenie (najlepiej naturalne). Kolejne zdjęcia: jedno zdjęcie pełnej sylwetki, jedno w sytuacji (aktywność, podróż, hobby) które pokazuje twoje zainteresowania, opcjonalnie z przyjaciółmi (ale zaznacz kto to ty). Unikaj: zdjęć z selfie stick w złym oświetleniu, starych zdjęć z 10 lat temu, zdjęć grupowych jako główne (nie wiadomo kto to ty), zdjęć przy samochodzie lub z alkoholem jako jedynych."
+        },
+        {
+          "h2": "Jak napisać dobry opis profilu randkowego?",
+          "tresc": "Dobre opisy to 3-5 zdań o tym kim jesteś + co lubisz robić + czego szukasz. Konkretne przykłady zamiast ogólników: zamiast 'lubię gotować' napisz 'ostatnio odkryłam tajską kuchnię i nie mogę przestać eksperymentować'. Koniec opisu: kończ pytaniem lub zaproszeniem do rozmowy ('Jeśli też lubisz górskie wędrówki — napisz gdzie byłeś/aś ostatnio'). Czego nie pisać: 'szukam kogoś kto mnie kocha' (zbyt ogólne), lista wymagań ('musi być wysoki, zarabiać X'), narzekanie ('wszystkie portale to jedna wielka ściema')."
+        },
+        {
+          "h2": "Jak zwiększyć widoczność profilu na portalu?",
+          "tresc": "Aktywność ma ogromne znaczenie: portale promują aktywnych użytkowników. Loguj się codziennie lub co dwa dni. Uzupełnij 100% profilu — portale nagradzają kompletne profile wyższą widocznością. Reaguj na 'polubienia' szybko — algorytmy doceniają responsywność. Premium: większość portali premium znacząco zwiększa widoczność — warto rozważyć przez pierwsze 1-2 miesiące."
+        },
+        {
+          "h2": "Czy warto kłamać w profilu randkowym?",
+          "tresc": "Nie — i to nie tylko z etycznych powodów. Praktycznie: każde kłamstwo wychodzi przy pierwszym spotkaniu (wzrost, wiek, wygląd). Tracisz czas swój i drugiej osoby. Budujesz relację na fałszywym fundamencie. Zamiast kłamać: pokaż siebie w najlepszym świetle (dobre zdjęcia, konkretny opis) — ale autentycznie. 'Najlepsze zdjęcie' to nie 'fałszywe zdjęcie'."
+        }
       ],
       "faq": [
-        {"q": "Ile zdjęć powinien mieć profil randkowy?", "a": "Minimum 3-4 zdjęcia, optymalnie 5-6. Jedno główne (twarz), jedno pełna sylwetka, jedno w sytuacji (hobby, podróże), jedno towarzyskie. Więcej zdjęć = więcej informacji o sobie = więcej tematów do rozmowy."},
-        {"q": "Czy podawać prawdziwy wiek w profilu randkowym?", "a": "Tak. Kłamstwo o wieku jest jedną z najczęstszych przyczyn rozczarowania przy pierwszym spotkaniu. Jeśli martwisz się że twój wiek odstrasza — skup się na tym, żeby profil pokazywał cię jako interesującą, aktywną osobę. Właściwe osoby i tak docenią autentyczność."},
-        {"q": "Jak długi powinien być opis w profilu randkowym?", "a": "Optymalna długość: 3-6 zdań, około 150-250 znaków. Wystarczająco długo żeby pokazać osobowość, wystarczająco krótko żeby nie przytłaczać. Zbyt długie opisy są rzadko czytane w całości."}
+        {
+          "q": "Ile zdjęć powinien mieć profil randkowy?",
+          "a": "Minimum 3-4 zdjęcia, optymalnie 5-6. Jedno główne (twarz), jedno pełna sylwetka, jedno w sytuacji (hobby, podróże), jedno towarzyskie. Więcej zdjęć = więcej informacji o sobie = więcej tematów do rozmowy."
+        },
+        {
+          "q": "Czy podawać prawdziwy wiek w profilu randkowym?",
+          "a": "Tak. Kłamstwo o wieku jest jedną z najczęstszych przyczyn rozczarowania przy pierwszym spotkaniu. Jeśli martwisz się że twój wiek odstrasza — skup się na tym, żeby profil pokazywał cię jako interesującą, aktywną osobę. Właściwe osoby i tak docenią autentyczność."
+        },
+        {
+          "q": "Jak długi powinien być opis w profilu randkowym?",
+          "a": "Optymalna długość: 3-6 zdań, około 150-250 znaków. Wystarczająco długo żeby pokazać osobowość, wystarczająco krótko żeby nie przytłaczać. Zbyt długie opisy są rzadko czytane w całości."
+        }
       ],
       "oferty": []
     },
@@ -138,15 +592,241 @@
       "h1": "Jak podrywać w internecie — skuteczne strategie i błędy których unikaj",
       "intro": "Internet zmienił podrywanie — ale zasady psychologicznego przyciągania pozostały te same. Różnica jest w tempie i medium. Zebrałem co naprawdę działa w rozmowach online i jak sprawnie przejść od czatu do realnego spotkania.",
       "sekcje": [
-        {"h2": "Flirtowanie w tekście — jak to robić naturalnie?", "tresc": "Flirt przez tekst działa inaczej niż w realu — nie ma tonu głosu ani mowy ciała. Co pomaga: lekki humor (bez wulgarności), komplementy nawiązujące do czegoś konkretnego (nie tylko wygląd), lekka prowokacja i zagrywki wyzywające ('Nie wygląda żebyś lubiła takie miejsca — chociaż może cię zaskoczę'). Tempo: nie odpowiadaj zbyt szybko na każdą wiadomość — daj przestrzeń. Nie zostawiaj też zbyt długo bez odpowiedzi."},
-        {"h2": "Jak nie wpaść w 'strefę przyjaciela' przez internet?", "tresc": "Strefa przyjaciela online to gdy rozmowy idą świetnie, ale nigdy nie dochodzi do spotkania. Objawy: piszecie tygodniami, ona/on odpowiada ale nie inicjuje, tematy rozmów są bezpieczne i bez napięcia. Jak tego uniknąć: zaproponuj spotkanie po 3-5 rozmowach (nie tysiącu), podtrzymuj lekkie napięcie (nie bądź zbyt 'grzeczny/a'), nie stawaj się darmowym terapeutą."},
-        {"h2": "Kiedy i jak zaproponować spotkanie?", "tresc": "Najlepszy moment: po 3-5 fajnych rozmowach, gdy jest wyraźna obustronna sympatia. Jak proponować: konkretnie i pewnie ('Hej, wydaje mi się że moglibyśmy się fajnie dogadać przy kawie — masz wolny czwartek lub piątek?'). Nie pytaj 'może kiedyś' ani nie dawaj zbyt wielu opcji. Miej już w głowie 2 miejsca które możesz zaproponować gdy się zgodzi. Odrzucenie: jeśli odmówi bez propozycji alternatywy — odpuść. Nie przekonuj i nie pyta 'dlaczego'."},
-        {"h2": "Bezpieczeństwo podczas pierwszego spotkania z portalu", "tresc": "Podstawowe zasady: pierwsze spotkanie w miejscu publicznym (kawiarnia, park, restauracja), poinformuj znajomego/ą gdzie idziesz i z kim, nie jedź do jego/jej domu przy pierwszym spotkaniu, nie zostawiaj drinka bez nadzoru. Intuicja: jeśli coś jest nie tak — po prostu wyjdź. Nie musisz tłumaczyć. Bezpieczeństwo > uprzejmość."}
+        {
+          "h2": "Flirtowanie w tekście — jak to robić naturalnie?",
+          "tresc": "Flirt przez tekst działa inaczej niż w realu — nie ma tonu głosu ani mowy ciała. Co pomaga: lekki humor (bez wulgarności), komplementy nawiązujące do czegoś konkretnego (nie tylko wygląd), lekka prowokacja i zagrywki wyzywające ('Nie wygląda żebyś lubiła takie miejsca — chociaż może cię zaskoczę'). Tempo: nie odpowiadaj zbyt szybko na każdą wiadomość — daj przestrzeń. Nie zostawiaj też zbyt długo bez odpowiedzi."
+        },
+        {
+          "h2": "Jak nie wpaść w 'strefę przyjaciela' przez internet?",
+          "tresc": "Strefa przyjaciela online to gdy rozmowy idą świetnie, ale nigdy nie dochodzi do spotkania. Objawy: piszecie tygodniami, ona/on odpowiada ale nie inicjuje, tematy rozmów są bezpieczne i bez napięcia. Jak tego uniknąć: zaproponuj spotkanie po 3-5 rozmowach (nie tysiącu), podtrzymuj lekkie napięcie (nie bądź zbyt 'grzeczny/a'), nie stawaj się darmowym terapeutą."
+        },
+        {
+          "h2": "Kiedy i jak zaproponować spotkanie?",
+          "tresc": "Najlepszy moment: po 3-5 fajnych rozmowach, gdy jest wyraźna obustronna sympatia. Jak proponować: konkretnie i pewnie ('Hej, wydaje mi się że moglibyśmy się fajnie dogadać przy kawie — masz wolny czwartek lub piątek?'). Nie pytaj 'może kiedyś' ani nie dawaj zbyt wielu opcji. Miej już w głowie 2 miejsca które możesz zaproponować gdy się zgodzi. Odrzucenie: jeśli odmówi bez propozycji alternatywy — odpuść. Nie przekonuj i nie pyta 'dlaczego'."
+        },
+        {
+          "h2": "Bezpieczeństwo podczas pierwszego spotkania z portalu",
+          "tresc": "Podstawowe zasady: pierwsze spotkanie w miejscu publicznym (kawiarnia, park, restauracja), poinformuj znajomego/ą gdzie idziesz i z kim, nie jedź do jego/jej domu przy pierwszym spotkaniu, nie zostawiaj drinka bez nadzoru. Intuicja: jeśli coś jest nie tak — po prostu wyjdź. Nie musisz tłumaczyć. Bezpieczeństwo > uprzejmość."
+        }
       ],
       "faq": [
-        {"q": "Ile czasu pisać zanim zaproponować spotkanie?", "a": "Optymalnie 3-7 dni pisania (kilka rozmów) przed zaproponowaniem spotkania. Dłużej niż 2-3 tygodnie bez propozycji spotkania zwykle oznacza że rozmowa wygaśnie lub wpadniesz w strefę przyjaciela."},
-        {"q": "Co zrobić gdy ktoś nie odpowiada na portalu?", "a": "Jedno przypomnienie po 3-4 dniach. Jeśli nadal cisza — odpuść. Nie wysyłaj wielokrotnych wiadomości. Ludzie mają prawo nie odpowiadać. Skup energię na nowych rozmowach — portale to gra liczb."},
-        {"q": "Jak nie brać odrzucenia personalnie?", "a": "Pamiętaj: brak odpowiedzi lub odmowa spotkania to nie ocena twojej wartości — to kwestia dopasowania, momentu, preferencji. Statystycznie na portalach randkowych odpowiada 5-30% osób do których piszesz — to norma, nie wyjątek. Traktuj to jak selekcję naturalną."}
+        {
+          "q": "Ile czasu pisać zanim zaproponować spotkanie?",
+          "a": "Optymalnie 3-7 dni pisania (kilka rozmów) przed zaproponowaniem spotkania. Dłużej niż 2-3 tygodnie bez propozycji spotkania zwykle oznacza że rozmowa wygaśnie lub wpadniesz w strefę przyjaciela."
+        },
+        {
+          "q": "Co zrobić gdy ktoś nie odpowiada na portalu?",
+          "a": "Jedno przypomnienie po 3-4 dniach. Jeśli nadal cisza — odpuść. Nie wysyłaj wielokrotnych wiadomości. Ludzie mają prawo nie odpowiadać. Skup energię na nowych rozmowach — portale to gra liczb."
+        },
+        {
+          "q": "Jak nie brać odrzucenia personalnie?",
+          "a": "Pamiętaj: brak odpowiedzi lub odmowa spotkania to nie ocena twojej wartości — to kwestia dopasowania, momentu, preferencji. Statystycznie na portalach randkowych odpowiada 5-30% osób do których piszesz — to norma, nie wyjątek. Traktuj to jak selekcję naturalną."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "pierwsze-spotkanie-z-portalu-randkowego",
+      "title": "Pierwsze spotkanie z portalu randkowego - jak się przygotować?",
+      "desc": "Jak przygotować się na pierwsze spotkanie z portalu randkowego? Gdzie iść, co mówić, jak się ubrać i jak nie zepsuć dobrego wrażenia z chatu.",
+      "keywords": "pierwsze spotkanie z portalu randkowego, pierwsza randka online, jak przygotować się na randkę z internetu",
+      "h1": "Pierwsze spotkanie z portalu randkowego — jak się przygotować żeby nie zepsuć?",
+      "intro": "Pierwsze spotkanie z kimś poznanym przez internet to szczególna sytuacja — znasz kogoś z rozmów, ale nie wiesz jak będzie w realu. Zebrałem konkretne porady jak zaplanować to spotkanie żeby dać mu realne szanse.",
+      "sekcje": [
+        {
+          "h2": "Gdzie iść na pierwsze spotkanie z portalu?",
+          "tresc": "Idealne miejsce: kawiarnia lub bar w środku dnia lub wczesnym wieczorem, neutralne terytorium (nie twoje ulubione miejsce), łatwy dojazd komunikacją, możliwość wyjścia po 30-60 minutach bez niezręczności. Unikaj: kina (nie rozmawiacie), drogiej restauracji (presja finansowa i oczekiwania), twojego lub jego/jej domu, miejsca zbyt głośnego. Złoty standard: kawiarnia na kawę, z możliwością przejścia na spacer lub kolację jeśli idzie dobrze."
+        },
+        {
+          "h2": "Jak się przygotować mentalnie?",
+          "tresc": "Pierwsze spotkanie to nie decyzja o związku — to tylko sprawdzenie czy jest chemia w realu. Obniż oczekiwania: możliwe że osoba będzie inna niż na chatcie — to normalne i niekoniecznie złe. Miej plan B: jeśli nie ma chemii — spotkanie może być po prostu miłą rozmową z nową osobą. Nie buduj scenariuszy przed spotkaniem — po prostu idź i sprawdź."
+        },
+        {
+          "h2": "O czym rozmawiać na pierwszej randce z internetu?",
+          "tresc": "Masz przewagę — znasz już coś o tej osobie z chatu. Wróć do tematów które były fajne w rozmowach online. Dobre tematy: plany na wakacje lub ostatnie wyjazdy, co teraz cię pochłania (praca, hobby, projekt), śmieszna historia z ostatniego tygodnia, co lubisz w swoim mieście. Unikaj: byłych związków na pierwszym spotkaniu, zbyt osobistych pytań, tematów które mogą być kontrowersyjne (polityka, religia) zanim pojawi się zaufanie."
+        },
+        {
+          "h2": "Jak zakończyć spotkanie — i co dalej?",
+          "tresc": "Dobra randka: wyjdź kiedy rozmowa jest jeszcze dobra — nie ciągnij do momentu gdy się wyczerpie. Jeśli podobało ci się: powiedz wprost ('Fajnie się rozmawiało, chętnie powtórzę') i zaproponuj konkretny następny termin jeszcze przy pożegnaniu. Jeśli nie było chemii: bądź uprzejmy/a, podziękuj za czas, nie obiecuj następnego spotkania jeśli go nie chcesz. Wiadomość po: wyślij krótkiego SMSa/wiadomość tego samego wieczoru jeśli chcesz się spotkać ponownie."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Jak długie powinno być pierwsze spotkanie z portalu?",
+          "a": "Optymalna długość pierwszego spotkania to 60-90 minut. Wystarczająco długo żeby zobaczyć czy jest chemia, wystarczająco krótko żeby nie być wyczerpującym. Jeśli idzie dobrze, naturalnie się przedłuży — jeśli nie, masz pretekst do wyjścia."
+        },
+        {
+          "q": "Kto płaci na pierwszej randce z portalu?",
+          "a": "Nie ma jednej zasady. Najprostsze rozwiązania: każdy płaci za siebie (brak zobowiązań, egalitarne), ten kto zaprosił płaci (tradycyjne podejście), podzielcie się po połowie. Najważniejsze: ustal to w sposób naturalny, bez niezręcznego walczenia o rachunek."
+        },
+        {
+          "q": "Co zrobić jeśli osoba wygląda zupełnie inaczej niż na zdjęciach?",
+          "a": "Bądź uprzejmy/a i daj szansę spotkaniu — zdjęcia rzadko oddają w pełni jak ktoś wygląda i prezentuje się w ruchu i rozmowie. Jeśli jednak czujesz że zostałeś/aś celowo wprowadzony/a w błąd (zdjęcia sprzed wielu lat, ukryte cechy), masz pełne prawo skrócić spotkanie i być szczerym/ą."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "jak-unikac-scamu-na-portalach-randkowych",
+      "title": "Jak unikać scamu na portalach randkowych - rozpoznaj fałszywe profile",
+      "desc": "Jak rozpoznać scam i fałszywe profile na portalach randkowych? Sprawdzone metody weryfikacji i czerwone flagi których nie ignoruj.",
+      "keywords": "scam portal randkowy, fałszywe profile randkowe, jak rozpoznać bota na portalu, romance scam",
+      "h1": "Jak unikać scamu na portalach randkowych — rozpoznaj fałszywe profile",
+      "intro": "Romance scam to jeden z najdroższych rodzajów oszustw internetowych — ofiary tracą średnio kilkadziesiąt tysięcy złotych. Zebrałem sprawdzone metody rozpoznawania fałszywych profili i schematów oszustw.",
+      "sekcje": [
+        {
+          "h2": "Czerwone flagi fałszywego profilu",
+          "tresc": "Natychmiastowe sygnały ostrzegawcze: zdjęcia jak z katalogu modelek (zbyt profesjonalne, zbyt idealne), profil bez informacji lub z minimalnymi danymi, natychmiastowe 'polubienie cię' po rejestracji (boty robią to automatycznie), pierwsza wiadomość z linkiem lub prośbą o przejście na inny komunikator. Późniejsze sygnały: wyznania uczuć po 2-3 rozmowach, historia pełna dramatów (wyjazd za granicę, choroba bliskiej osoby), niemożność spotkania się przez wideo pomimo 'dużego zainteresowania'."
+        },
+        {
+          "h2": "Jak zweryfikować czy profil jest prawdziwy?",
+          "tresc": "Metoda 1 — Wyszukiwanie odwrotne zdjęć: skopiuj zdjęcie profilowe i wyszukaj przez Google Images lub TinEye — jeśli zdjęcie należy do kogoś innego, to fałszywy profil. Metoda 2 — Rozmowa wideo: zaproponuj krótką rozmowę przez Skype/WhatsApp/FaceTime. Prawdziwa osoba się zgodzi. Scammer znajdzie wymówkę ('kamera zepsuta', 'zły internet'). Metoda 3 — Konkretne pytania: zapytaj o szczegóły z życia które trudno wymyślić (dzielnica gdzie mieszka, nazwa szkoły, ulubiona restauracja w mieście). Boty i scammerzy mają problem z konkretnymi detalami."
+        },
+        {
+          "h2": "Schemat romance scamu — jak wygląda?",
+          "tresc": "Typowy romance scam przebiega według schematu: 1. Kontakt przez portal randkowy lub social media. 2. Intensywne zaloty i budowanie emocjonalnej więzi (tygodnie lub miesiące). 3. Budowanie wymówki do prośby o pieniądze: nagła choroba, wypadek, problem z lotem, opłata celna za przesyłkę z 'prezentem'. 4. Pierwsza prośba o małą kwotę (test). 5. Kolejne prośby o coraz większe kwoty. Scammerzy nigdy nie proszą o spotkanie — bo go nigdy nie będzie."
+        },
+        {
+          "h2": "Co zrobić jeśli padłeś/aś ofiarą romance scamu?",
+          "tresc": "Kroki natychmiastowe: przerwij wszelki kontakt (zablokuj we wszystkich kanałach), nie wysyłaj żadnych pieniędzy (nawet jeśli już wysłałeś/aś wcześniej), zgłoś profil na portalu randkowym (przycisk 'Zgłoś' przy profilu). Gdzie zgłosić: CERT Polska (incydent.cert.pl), policja (szczególnie jeśli straciłeś/aś pieniądze), Bankowe centrum cyberbezpieczeństwa jeśli były transakcje. Nie wstydź się — romance scam to wyrafinowana manipulacja emocjonalna, nie głupota."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Jak sprawdzić czy zdjęcie profilowe jest prawdziwe?",
+          "a": "Użyj wyszukiwania odwrotnego zdjęć: kliknij prawym na zdjęcie → Szukaj obrazu w Google (Chrome) lub wejdź na images.google.com i przeciągnij zdjęcie. Jeśli zdjęcie pochodzi z innej strony (stock photo, profil innej osoby) — to fałszywy profil."
+        },
+        {
+          "q": "Czy boty na portalach randkowych są groźne?",
+          "a": "Większość botów na portalach to spam — kierują na płatne serwisy lub wyłudzają dane. Są irytujące ale nie bezpośrednio groźne finansowo. Groźniejszy jest romance scam prowadzony przez prawdziwych ludzi (często zorganizowane grupy) — tu straty finansowe mogą być poważne."
+        },
+        {
+          "q": "Jak portal randkowy radzi sobie z fałszywymi profilami?",
+          "a": "Lepsze portale (Sympatia, Badoo) mają weryfikację przez zdjęcie lub SMS. Mimo to fałszywe profile istnieją. Twoja czujność jest ważniejsza niż systemy portalu — zawsze weryfikuj samodzielnie zanim zbudujesz emocjonalne zaangażowanie."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "randki-po-rozwodzie-jak-zaczac",
+      "title": "Randki po rozwodzie - jak zacząć i kiedy jest dobry moment?",
+      "desc": "Kiedy wrócić do randkowania po rozwodzie? Jak zacząć od nowa, jakie portale wybrać i jak poradzić sobie z emocjami przy nowym związku.",
+      "keywords": "randki po rozwodzie, jak zacząć randkować po rozstaniu, powrót do randkowania, single po rozwodzie",
+      "h1": "Randki po rozwodzie — kiedy zacząć i jak nie popełnić starych błędów",
+      "intro": "Powrót do randkowania po rozwodzie to jeden z trudniejszych kroków. Kiedy to za wcześnie, kiedy za późno, jak wybrać właściwy portal i jak poradzić sobie z nowymi emocjami — zebrałem praktyczne odpowiedzi.",
+      "sekcje": [
+        {
+          "h2": "Kiedy jest dobry moment żeby zacząć randkować po rozwodzie?",
+          "tresc": "Nie ma uniwersalnej odpowiedzi — ale są sygnały że jesteś gotowy/a: potrafisz myśleć o byłym/ej partnerze/ce bez silnych emocji (złość, smutek, tęsknota), masz poczucie własnej wartości niezależne od bycia w związku, randkujesz z ciekawości i otwartości, nie dlatego że boisz się samotności. Zbyt wcześnie: jeśli szukasz kogoś żeby 'zalać ból' rozstania — to ryzyko wciągnięcia nowej osoby w swoje nieprzetrawione emocje."
+        },
+        {
+          "h2": "Jak portale randkowe wyglądają po długim związku?",
+          "tresc": "Wiele osób po długim związku (5-15 lat) jest zaskoczonych jak zmieniło się randkowanie online. Aplikacje są teraz przede wszystkim mobilne (Tinder, Badoo). Tempo jest szybsze — oczekiwanie odpowiedzi w ciągu godzin, nie dni. Profile są krótsze i mniej formalne niż 10 lat temu. Nie musisz rozumieć każdej aplikacji od razu — zacznij od jednej (Badoo lub Sympatia) i zapoznaj się z jej logiką."
+        },
+        {
+          "h2": "Jak mówić o rozwodzie na randkach?",
+          "tresc": "Na pierwszym spotkaniu: nie musisz poruszać tematu. Jeśli ktoś pyta — krótko i spokojnie ('Byłem/am w małżeństwie, nie wyszło, teraz jestem tu'). Unikaj: długiego tłumaczenia kto zawinił, emocjonalnych opowieści o bólu, porównywania nowej osoby do byłego/ej partnera/ki. Kiedy mówić więcej: gdy pojawia się zainteresowanie i perspektywa poważniejszej relacji — wtedy naturalnie pojawi się czas na głębszą rozmowę."
+        },
+        {
+          "h2": "Jak randkować jeśli masz dzieci?",
+          "tresc": "Nie musisz mówić o dzieciach przy pierwszym kontakcie online — choć warto to zaznaczyć w profilu żeby przyciągać odpowiednie osoby. Na pierwszych spotkaniach: wspomnij że masz dzieci, ale nie czyń tego głównym tematem. Dzieci i nowy partner: nie przedstawiaj nowej osoby dzieciom dopóki relacja nie jest stabilna (minimum kilka miesięcy, co najmniej kilkanaście spotkań). To chroni dzieci emocjonalnie i daje relacji czas na naturalne dojrzewanie."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy trzeba mówić na portalu randkowym że się jest po rozwodzie?",
+          "a": "Warto to zaznaczyć — szczególnie w opisie jeśli masz dzieci lub jesteś w konkretnym etapie życia. To przyciąga osoby w podobnej sytuacji i odpycha tych którzy tego nie szukają. Nie trzeba pisać powodów ani szczegółów."
+        },
+        {
+          "q": "Ile czasu po rozwodzie czekać przed pierwszą randką?",
+          "a": "Nie ma magicznej liczby miesięcy. Ważniejsze niż czas jest stan emocjonalny — czy przepracowałeś/aś koniec związku, czy masz jasność czego szukasz. Dla wielu osób to rok lub więcej, dla innych kilka miesięcy wystarczy."
+        },
+        {
+          "q": "Jakie portale randkowe polecasz po rozwodzie?",
+          "a": "Sympatia.pl i EliteSingles mają więcej dojrzałych użytkowników po 35+ szukających poważnych relacji. Badoo i Tinder mają większą bazę ale mieszane intencje. Dla osób po 40 szczególnie polecam Sympatię lub eHarmony."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "jak-zorganizowac-randke-w-duzym-miescie",
+      "title": "Jak zorganizować randkę w dużym mieście - pomysły i miejsca",
+      "desc": "Pomysły na randkę w Warszawie, Krakowie, Wrocławiu i innych polskich miastach. Gdzie iść na pierwszą randkę i jak wybrać miejsce które nie zawiedzie.",
+      "keywords": "pomysły na randkę, gdzie iść na randkę warszawa, pierwsza randka miejsca, randka w dużym mieście",
+      "h1": "Jak zorganizować randkę w dużym mieście — miejsca i pomysły które działają",
+      "intro": "Wybór miejsca na randkę to więcej niż logistyka — dobre miejsce tworzy nastrój, daje tematy do rozmowy i sprawia że spotkanie jest przyjemne niezależnie od chemii. Zebrałem sprawdzone pomysły dla polskich miast.",
+      "sekcje": [
+        {
+          "h2": "Zasady wyboru miejsca na randkę",
+          "tresc": "Dobre miejsce na randkę ma: możliwość spokojnej rozmowy (nie za głośne), naturalną opcję wyjścia po godzinie jeśli nie ma chemii, możliwość pozostania dłużej jeśli idzie dobrze, jest neutralne (nie twój ulubiony lokal gdzie wszyscy cię znają), łatwy dojazd komunikacją. Dla pierwszego spotkania: kawiarnia lub mały bar, środek dnia lub wczesny wieczór, centralna lub dobrze skomunikowana lokalizacja."
+        },
+        {
+          "h2": "Pomysły na randkę w Warszawie",
+          "tresc": "Kawiarnie: okolice Nowego Światu, Mokotowska, Śródmieście — wiele klimatycznych miejsc w odległości spaceru. Spacery: Łazienki Królewskie (idealne na randkę w dzień), Stare Miasto, wzdłuż Wisły. Na kolację: Praga Północ (modne restauracje), Żoliborz. Coś bardziej aktywnego: muzeum (POLIN, Muzeum Powstania), galeria sztuki, kino Muranów (kameralnie). Unikaj: galerii handlowych (bezosobowe), głośnych barów koktajlowych na pierwsze spotkanie."
+        },
+        {
+          "h2": "Pomysły na randkę w Krakowie",
+          "tresc": "Klimatyczne kawiarnie: okolice Kazimierza (Plac Nowy, ulice boczne), Stare Miasto (ale unikaj turystycznych pułapek). Spacery: Planty (zielony pierścień wokół Starego Miasta), Wawel, bulwary wiślane wieczorem. Na coś oryginalnego: Muzeum Podziemia Rynku, warsztaty ceramiczne lub kulinarne (dobry pomysł na kolejne spotkanie). Kraków jest zwartym miastem — łatwo przejść pieszo między miejscami i naturalnie przedłużyć spotkanie."
+        },
+        {
+          "h2": "Alternatywne pomysły na randkę — coś więcej niż kawa",
+          "tresc": "Aktywności na randkę: escape room (buduje teamwork, dostarcza tematów), warsztaty kulinarne (gotowanie razem), paintball lub laser tag (jeśli oboje lubią adrenalinę), trampoliny lub bowling (lekko, bez presji), rejs łodzią (lato). Kulturalne: wernisaż w małej galerii, spektakl stand-up, koncert kameralny. Dla drugiego lub trzeciego spotkania: piknik w parku, wyjazd na dzień do pobliskiego miasta, wspólne gotowanie w domu."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy restauracja to dobry wybór na pierwszą randkę?",
+          "a": "Droga restauracja na pierwszą randkę to ryzyko — tworzy presję finansową i oczekiwania. Lepszy wybór: kawiarnia lub mały bistro na pierwsze spotkanie. Restauracja sprawdza się świetnie na drugie lub trzecie spotkanie gdy już jest pewna chemia."
+        },
+        {
+          "q": "Co zrobić jeśli randka nie idzie dobrze?",
+          "a": "Bądź uprzejmy/a do końca spotkania — niezależnie od chemii, druga osoba też się postarała. Nie przedłużaj na siłę: po kawie możesz naturalnie zakończyć ('muszę lecieć, ale fajnie się rozmawiało'). Jeśli jednak chemia jest zerowa od początku — skróć spotkanie do minimum i nie umów się na 'może kiedyś'."
+        },
+        {
+          "q": "Jak wybrać miejsce randki jeśli nie znam dobrze miasta?",
+          "a": "Zapytaj osobę z randki — to dobry temat do rozmowy i pokazuje że cenisz jej zdanie. Możesz też zaproponować kilka opcji i dać wybór. Google Maps z filtrem 'kawiarnie' + recenzje powyżej 4.5 to niezawodny punkt startowy."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "jak-rozpoznac-czy-ktos-cie-lubi-przez-internet",
+      "title": "Jak rozpoznać czy ktoś Cię lubi przez internet - sygnały zainteresowania",
+      "desc": "Jak rozpoznać czy komuś na Tobie zależy przez chat i portal randkowy? Sygnały zainteresowania online i czerwone flagi braku zainteresowania.",
+      "keywords": "jak rozpoznać zainteresowanie przez internet, sygnały że ktoś cię lubi online, flirt przez chat sygnały",
+      "h1": "Jak rozpoznać czy ktoś Cię lubi przez internet — 12 sygnałów zainteresowania",
+      "intro": "Odczytywanie zainteresowania przez chat jest trudne — nie ma tonu głosu ani mowy ciała. Ale są konkretne wzorce zachowań które wyraźnie sygnalizują czy komuś na Tobie zależy, czy jesteś jednym z wielu.",
+      "sekcje": [
+        {
+          "h2": "Sygnały że ktoś jest naprawdę zainteresowany",
+          "tresc": "Pozytywne sygnały: odpowiada w rozsądnym czasie (nie czeka dniami), inicjuje rozmowy — nie tylko odpowiada na twoje wiadomości, zadaje pytania o ciebie (nie tylko opowiada o sobie), pamięta szczegóły z poprzednich rozmów i nawiązuje do nich, pyta o plany i delikatnie sugeruje spotkanie, rozmowy naturalnie się przedłużają, używa humoru i flirtu. Szczególnie mocny sygnał: sama/sam proponuje spotkanie lub pyta kiedy masz czas."
+        },
+        {
+          "h2": "Sygnały braku zainteresowania — kiedy odpuścić",
+          "tresc": "Czerwone flagi: odpowiada tylko gdy piszesz (nigdy nie inicjuje), odpowiedzi są bardzo krótkie i nie rozwijają tematu, długo nie odpowiada bez wyjaśnienia, zawsze 'zajęta/y' gdy sugerujesz spotkanie, rozmowy urywają się i nie są wznawiane. Szara strefa: czasem ludzie są naprawdę zajęci przez kilka dni — daj benefit of doubt raz lub dwa. Ale powtarzający się wzorzec to sygnał że nie jesteś priorytetem."
+        },
+        {
+          "h2": "Jak odróżnić flirt od zwykłej uprzejmości?",
+          "tresc": "Uprzejmość: odpowiada na pytania, jest miła, ale nie inicjuje, rozmowy są krótkie i grzeczne. Flirt: używa emotikonów i humoru specyficznie w rozmowach z tobą, komentuje coś co powiedziałeś/aś wcześniej (słucha uważnie), nawiązuje do waszych rozmów w następnych sesjach, subtelnie testuje czy jesteś wolny/a ('masz jakieś plany na weekend?'). Najsilniejszy sygnał flirtu: konkretna propozycja spotkania lub wideo rozmowy."
+        },
+        {
+          "h2": "Co zrobić z mieszanymi sygnałami?",
+          "tresc": "Mieszane sygnały to często: osoba jest zainteresowana, ale niepewna, osoba flirtuje z kilkoma osobami jednocześnie, osoba lubi twoją uwagę ale nie planuje spotkania. Co robić: nie buduj zamku na lodzie na podstawie tylko chatu — zaproponuj spotkanie i obserwuj reakcję. Entuzjastyczne 'tak' + ustalenie terminu = zainteresowanie. Wymijające 'może kiedyś' = brak zainteresowania lub strach przed odrzuceniem. Po propozycji spotkania wszystko staje się jasne."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy szybkie odpowiedzi oznaczają zainteresowanie?",
+          "a": "Szybkie odpowiedzi to dobry sygnał, ale nie jedyny. Ważniejsza jest jakość i treść odpowiedzi — czy zadaje pytania, czy inicjuje tematy. Ktoś bardzo zainteresowany może odpowiadać wolno ze względu na pracę, ale rozmowy będą głębsze i inicjowane z obu stron."
+        },
+        {
+          "q": "Co oznacza gdy ktoś zostawia wiadomości 'na niebiesko' (czyta i nie odpowiada)?",
+          "a": "Różne interpretacje: zajęta/y i zapomniała/zapomniał odpowiedzieć (zdarza się), nie wiedzą co napisać (szczególnie przy trudniejszych pytaniach), straciła/stracił zainteresowanie ale nie chce tego powiedzieć wprost. Po 1-2 dniach możesz napisać lekką wiadomość — jeśli znów zostawia bez odpowiedzi, masz odpowiedź."
+        },
+        {
+          "q": "Po ilu wiadomościach zaproponować spotkanie?",
+          "a": "Nie ma jednej zasady — ważniejsza jest jakość niż ilość wiadomości. Dobrym momentem jest gdy czujesz że rozmowy są żywe, oboje się angażujecie i jest obopólna ciekawość. Zazwyczaj to 3-7 fajnych rozmów w ciągu kilku dni do tygodnia. Czekanie tygodniami bez zaproponowania spotkania prowadzi do wygaśnięcia zainteresowania."
+        }
       ],
       "oferty": []
     }
